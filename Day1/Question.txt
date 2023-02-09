@@ -1,0 +1,24 @@
+
+https://leetcode.com/
+
+https://leetcode.com/problems/two-sum/
+
+https://leetcode.com/problems/palindrome-number/
+
+
+
+https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+
+
+https://leetcode.com/problems/longest-common-prefix/
+
+
+https://leetcode.com/problems/regular-expression-matching
+
+
+
+Create HTML Pages that acts as a selling poit for your HTML skills
+
+Concept for the page is your profile
+
+note-: Add pics, skills, grad details, hobbies
