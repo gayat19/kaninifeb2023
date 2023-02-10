@@ -1,0 +1,37 @@
+kanini
+ WebsiteDevelopment
+   Day3
+	 HTML
+      Day3.html
+    Css
+ 		Day3.css
+mnmnmnmnmnmn
+AV
+
+.myStyle {
+    background-color: lightgoldenrodyellow;
+}
+
+
+Login.html
+login.css
+bankTitle - heading
+loginSection - section
+  frmLogin
+   txtUsername
+   tctPassword
+   btnLogin
+   btnReset
+messageSection - section
+
+
+
+
+
+
+
+
+
+
+
+
