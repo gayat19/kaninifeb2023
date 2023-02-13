@@ -1,0 +1,121 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+        div{
+            height:100px;
+            width:100px;
+            position:relative;
+           /* float:left;*/
+            margin:5px;
+        }
+        #div1{
+           /* background-color:aquamarine;*/
+           background: linear-gradient(to right,green,lime,aquamarine,yellow);
+            border: green solid 2px;
+        }
+        #div2 {
+        /*    background-color: deeppink;*/
+           /* background:radial-gradient(red 5%,deeppink 15%,pink 70%);*/
+           background:repeating-radial-gradient(deeppink 5%,pink 10%);
+            border: maroon solid 2px;
+            box-shadow: maroon 5px 5px 10px;
+          /* border-image-source: url('BorderImage.jfif');
+           border-image-repeat:round;
+           border-image-slice:30;
+           border-image-width:75;*/
+        }
+        /*#div3 {*/
+            /*background-color: bisque;*/
+            /*border: 160px solid;
+            border-image: url('BorderImage.jfif') 160 round;
+            text-shadow: grey 2px 2px 2px;
+            font-size:2em;
+            transform: skewX(20deg);
+            text-transform:lowercase;*/
+            /*border-image-repeat: round;
+            border-image-slice: 30;
+            border-image-width: 15px;*/
+        /*}*/
+        #div4 {
+            background-color: bisque;
+            border: brown 2px solid;
+            padding: 5px;
+            text-align: center;
+            animation: another 20s infinite;
+            border-radius: 50px;
+        }
+        @-webkit-keyframes myAnimation{
+            from {
+                background-color: blue;
+                left: 20px;
+                top: 0px;
+            }
+            to {
+                background-color: aqua;
+                left: 100px;
+                top: 20px;
+                border-radius:50px;
+            }
+        }
+        @-webkit-keyframes another{
+            0% {
+                background-color: darkmagenta;
+                left: 0px;
+                top: 50px;
+                transform: rotate(0deg);
+            }
+            25% {
+                background-color: blue;
+                left: 40px;
+                top: 0px;
+                transform: rotate(30deg);
+            }
+            50% {
+                background-color: yellow;
+                left: 100px;
+                top: 50px;
+                transform:rotate(90deg);
+            }
+            75% {
+                background-color: red;
+                left: 160px;
+                top: 0px;
+                transform: rotate(120deg);
+            }
+            100% {
+                background-color: green;
+                left: 200px;
+                top: 50px;
+                transform: rotate(180deg);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="div1">
+        First Div
+    </div>
+    <div id="div2">
+        Second Division
+    </div>
+    <div id="div3">
+        Third div
+    </div>
+    <div id="div4">
+        Check
+    </div>
+    <summary>
+        Hello
+        <details>
+            This is the detailed one
+        </details>
+    </summary>
+    <video controls height="200" width="200">
+        <source src="Sample.mp4" type="video/mp4" />
+    </video>
+</body>
+</html>

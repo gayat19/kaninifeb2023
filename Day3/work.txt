@@ -1,0 +1,45 @@
+Git
+To create a new local repo
+Git init
+
+Link to download Git
+https://git-scm.com/downloads
+
+Once intallation is over
+Open cmd prompt and key in
+>git --version
+
+To create alocal repo in the current location
+>git init
+which will give u
+"Initialized empty Git repository <path>"
+
+To check the files that have to be staged or commited
+>git status
+
+To stage all teh files in the current location to the local repo
+>git add -A
+
+To commit all the files that have been staged
+>git commit -m "<Commit msg>"
+note:-> Please give a proper commit msg that show what new has been added
+
+
+In the site
+https://github.com/
+
+create yourself an aacount
+
+To link the local repo with the remote repo
+>git remote add origin <repo link>
+Example
+>git remote add origin https://github.com/gayat19/KaniniAug2021Batch2.git
+
+To push the files from the local repo to the remote repo
+>git push origin master
+
+
+To get from the remote repo to the local repo
+>git pull origin master
+
+
