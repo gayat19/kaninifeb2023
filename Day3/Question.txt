@@ -1,0 +1,15 @@
+1) Create a solar system using css3
+
+2) Create a new web application for loan application
+create different segments of the page.
+
+Basic information
+  Name, Age, Date of birth, Email, Phone, Address, Gender, Father/Husband/Wife name
+Financial Information
+  Salaried, Yearly income, monthly expense(Range), Existing loan information
+Loan Requirements
+  Loan amount
+  Tenure
+  Collatral
+  Type
+  CIBIL score
