@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script>
+
+        /*   alert("Another");*/
+        //Define the method
+        function first() {
+            alert("Hello World!!");
+            document.getElementById("h1").innerHTML = "Changed";
+            document.getElementById("h1").style.backgroundColor = "Yellow";
+            document.getElementById("txtName").value = "Ramu";
+        }
+        function second() {
+            document.getElementById("h1").style.backgroundColor = "blue";
+        }
+    </script>
+</head>
+<body>
+    <h1 id="h1">Sample Page</h1>
+    <br />
+    <input type="text" id="txtName" />
+
+    <button onclick="first()">Click here</button>
+    <button onclick="second()">Again</button>
+</body>
+</html>

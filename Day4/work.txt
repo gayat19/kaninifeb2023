@@ -1,0 +1,23 @@
+sequence
+selection
+  if
+  if else
+  if else if
+  switch
+iteration
+  while
+  for
+  do-while
+  foreach
+
+Add nother button(again) to the page
+When clicked on the again button change the background color of h1 to blue
+
+
+
+
+
+
+
+
+

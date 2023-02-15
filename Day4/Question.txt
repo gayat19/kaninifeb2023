@@ -1,0 +1,4 @@
+1) Add validation to the bank loan page that we created on 13/Feb/2023 using javaScript
+
+2) Create a calculator page with the working using HTML and JavaScript
+
