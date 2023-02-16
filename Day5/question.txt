@@ -1,0 +1,2 @@
+In the bank loan page get all the information and populate an object
+Display the objet in the console
