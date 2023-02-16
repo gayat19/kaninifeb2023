@@ -1,0 +1,11 @@
+cow and bull game
+textbox - masked - txtOrignalWord (work)
+
+textbox - txtGuessWord - 
+button - check - (take,wake,wide,wear)
+work vs. take - cows -0 bulls -1
+work vs. wake - cows -1 bulls -1
+work vs. wide - cows -1 bulls -0
+work vs. wear - cows -1 bulls -1
+work vs. work - cows -4 bulls - 0
+you win

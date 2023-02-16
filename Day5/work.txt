@@ -1,0 +1,20 @@
+create a page that takes in movie details
+Movie name
+Movie duration
+Movie rating(1to5)
+ 
+2 buttons 
+One 
+ Update the movie object
+Two
+ Print the details in console and in a section below
+
+Add a text box in the page(txtName)
+Add a button in the page(insert)
+Add a button in the page(show)
+
+when the insert button is clicked add the text in the txtName to an array(names)
+
+When the show button is clicked display all the values in the "names" array in the console
+hint:-create the array outsite all the methods
+

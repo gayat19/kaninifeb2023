@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="Script1.js">
+    </script>
+    <script>
+        function sample() {
+            alert("Hello");
+        }
+    </script>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>Customer ID</td>
+            <td>
+                <input type="number" min="101" max="999" id="txtCID" />
+            </td>
+        </tr>
+        <tr>
+            <td>Customer Name</td>
+            <td>
+                <input type="text" id="txtCName" />
+            </td>
+        </tr>
+        <tr>
+            <td>Customer Age</td>
+            <td>
+                <input type="number" min="18" max="99" id="txtCAge" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <button onclick="assignCustomerData()">Register</button>
+            </td>
+            <td>
+                <button onclick="showCustomerData()">Show</button>
+            </td>
+           
+        </tr>
+
+    </table>
+    <div id="msgDiv" style="background-color:violet;height:20%;width:30%">
+
+    </div>
+    
+</body>
+</html>
