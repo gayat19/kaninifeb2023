@@ -1,0 +1,7 @@
+create a page that takes movie details as input
+  movie name
+  movie duration
+  movie ratings(use a slider to rate movies)
+
+when used clicks Add movie display the movie as a row in the table below the form
+Keep addinng rows for every entry
