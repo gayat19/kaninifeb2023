@@ -1,0 +1,2 @@
+Create the product listing page with bootstrap 
+Implement the nav bar
