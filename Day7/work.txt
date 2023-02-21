@@ -1,0 +1,10 @@
+$('#btn1').click(
+                    function () {
+                        $("div").toggle(2000);
+                    }
+                )
+                $('#btn2').click(
+                    function () {
+                        $("div").slideToggle(2000);
+                    }
+                ) 
