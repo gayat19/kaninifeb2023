@@ -1,0 +1,29 @@
+1) Print all the titles names
+
+2) Print all the titles that have been published by 1389
+
+3) Print the books that have price in rangeof 10 to 15
+
+4) Print those books that have no price
+
+5) Print the book names that strat with 'The'
+
+6) Print the book names that do not have 'v' in their name
+
+7) print the books sorted by the royalty
+
+8) print the books sorted by publisher in descending then by types in asending then by price in descending
+
+9) Print the average price of books in every type
+
+10) print all the types in uniques
+
+11) Print the first 2 costliest books
+
+12) Print books that are of type business and have price less than 20 which also have advance greater than 7000
+
+13) Select those publisher id and number of books which have price between 15 to 25 and have 'It' in its name. Print only those which have count greater than 2. Also sort the result in ascending order of count
+
+14) Print the Authors who are from 'CA'
+
+15) Print the count of authors from every state
