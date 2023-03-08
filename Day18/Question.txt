@@ -1,0 +1,21 @@
+1) Fetch all the titles and the details of titles that have been sold
+
+2) Print the book name, publisher name and the sale quantity of all thetitles and fetch all teh publisher
+
+3) print the details of the sale when the sale quantity is greater than the sale quantity of all the same titles sold in the same store
+
+4) Print the average price of every author's books withthe author's full name
+
+5) Print the schema of the titles table and locate all teh constrants
+
+
+6) Print the sale details of the books that are authored by authors who come from city which has more authors than the count of authors coming from 'CA'
+
+7) Print the Store details if any sale is made for the book sold in quantity 3
+
+8) Print the details of the books that have been authored by more than 1 author.
+
+9) Print the number of books that been authored by more than one author and published by publisher who have more than 2 employees
+
+10) Print the store name, title name,, quantity, sale amount, pulisher name, author name for all the sales. Also print those books which have not been sold and authors who have not written.
+

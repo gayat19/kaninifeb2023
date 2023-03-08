@@ -1,0 +1,91 @@
+use pubs
+
+--publisher name and the book name
+select title,Pub_name from publishers left outer join titles
+on publishers.pub_id = titles.pub_id
+
+
+select title,concat(au_fname,' ',au_lname) 'Author Name',pub_name 
+from authors left outer join  titleauthor on 
+ authors.au_id = titleauthor.au_id join
+ titles on titles.title_id = titleauthor.title_id right outer join 
+ publishers on publishers.pub_id = titles.pub_id
+
+ use Northwind
+
+ select emp.firstname 'Employee Name',
+mgr.FirstName 'Manager Name'
+from Employees emp left outer join Employees mgr
+on emp.reportsTO = mgr.EmployeeID
+
+
+
+
+
+use pubs
+select pub_name,title,au_fname from
+publishers p left outer join titles t
+on p.pub_id = t.pub_id left outer join titleauthor ta
+on t.title_id = ta.title_id  full outer join authors a
+on a.au_id=ta.au_id
+
+ use Northwind
+
+ select * from Categories
+
+select * from Products where exists
+(select * from shippers where phone like '%2%')
+
+--print the product detaisl of teh product that that have price 
+--greater than the average price of all the products
+select * from products where unitprice
+>(select avg(unitprice) from products)
+
+
+--print the products that have price greater than the price of 
+-- every product that are from 'Seafood'
+select * from Products where UnitPrice > all
+(select UnitPrice from products where CategoryID = 
+(select categoryid from Categories where CategoryName = 'Seafood'))
+--or
+select * from Products where UnitPrice > 
+(select max(UnitPrice) from products where CategoryID = 
+(select categoryid from Categories where CategoryName = 'Seafood'))
+
+select * from Products where UnitPrice > any
+(select UnitPrice from products where CategoryID = 
+(select categoryid from Categories where CategoryName = 'Seafood'))
+--or
+select * from Products where UnitPrice > 
+(select min(UnitPrice) from products where CategoryID = 
+(select categoryid from Categories where CategoryName = 'Seafood'))
+
+--print the details of products that have price taht is greater than
+--the average price of the products in the same category
+select * from Products p where UnitPrice >
+( select avg(UnitPrice) from products p2
+where p.CategoryID = p2.CategoryID
+group by CategoryID)
+
+--print the product details of products wheich have been ordered
+-- if teh ordered quantity is less than the average of quantity
+--of that product being ordered
+select * from products where productid in
+(select productid from [order details] o where quantity <
+(select avg(quantity) from [Order Details] od
+where o.ProductID = od.ProductID
+group by ProductID))
+
+--union and union all
+select * from products where CategoryID = 
+(select CategoryID from Categories where CategoryName = 'SeaFood')
+union all
+select * from products where productId in
+(select productid from [Order Details] where Quantity > 100)
+
+
+select * from products cross join Employees
+
+
+
+
