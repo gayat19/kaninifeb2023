@@ -1,0 +1,4 @@
+1) Northwind- Create a stored procedure that takes a Shipper's name and print the number or orders shipped by the same alse the total freight charges
+
+2) Create a stored procedure that will take the author name and print the total sales amount for all the books authored by him/her
+  Note : - If there are no books sold then print "Sale yet to gear up"
