@@ -1,0 +1,9 @@
+1) Create a function that will take the supplier name and the category name and selects product name and unit price of all the products that are of category provided or of the supplier provided. Print the products sorted by its price
+
+2) Create a function that will take the shipper's name as parameter and return the table that contains the shipper's name (except the one that is given) and the number of orders that are assigned to it 
+
+3) Create a function that will take the unit price and return back the price with tax(i.e price+18%GST)
+
+4) Create a stored procedure that will print all the price and the price with tax and the product name(Note:- the procedure should call the function ;-)
+
+enjoy!!!!!!
