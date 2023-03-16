@@ -1,0 +1,19 @@
+1) Create a cursor that will take every Publisher and print the publisher name, city
+Books details
+ Name price 
+
+2) Create a trigger for the Employeeskill table for insert that will insert the skill if it is not already present in the skills table(Skill description not required)
+
+
+3) Create a cursor that takes Every Sale details and print the invoice
+
+Sale Number: 
+Book name   |  Quantity | Price
+
+
+
+
+------------------------------
+total 			XXXX.XX
+-------------------------------
+
