@@ -1,0 +1,8 @@
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day24\FirstSolution\FirstApp\bin\Debug\FirstApp.exe.config
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day24\FirstSolution\FirstApp\bin\Debug\FirstApp.exe
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day24\FirstSolution\FirstApp\bin\Debug\FirstApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day24\FirstSolution\FirstApp\obj\Debug\FirstApp.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day24\FirstSolution\FirstApp\obj\Debug\FirstApp.csproj.SuggestedBindingRedirects.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day24\FirstSolution\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day24\FirstSolution\FirstApp\obj\Debug\FirstApp.exe
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day24\FirstSolution\FirstApp\obj\Debug\FirstApp.pdb

@@ -1,0 +1,12 @@
+1) Create a new C# Console app in dotnet framework
+Application name : GreatestApp
+Solution name : MyOwnSolution
+
+The application should take 3 numbers(double) from user
+Find the greatest of the three numbers and print it
+
+use methods wisely
+coding standards mandit
+
+2) Learn datatypes in C#
+Ref: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/built-in-types

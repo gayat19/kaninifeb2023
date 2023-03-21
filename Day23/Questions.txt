@@ -1,0 +1,31 @@
+use pubs
+
+1) Print all the author details sorted by their lastname in descending order then by firstname in ascending order
+
+2) Print the number of books by every author(id)
+
+3) print the number of author for every book(id)
+
+4) print the highest priced book by every publisher id
+
+5) print the first 5 heighest quantity sales
+
+6) print the books that are priced not more than 25 not less than 10
+
+7) Print the books that are price higher than the books that are of type 'cook'
+
+8) print the books that have 'e' and 'a' in their name
+
+9) print the number  and the sum of their price of books that have been published by authors from 'CA'
+
+10) print the publisher name and the average of books published
+
+11) Create a procedure that takes the title id and prints the total amount of sale for it
+
+12) Create a function that takes the author last name and print his last name and the book name authored
+
+13) Create a procedure that will take the price and prints the count of book that are priced less than that
+
+14) Find a way to ensure that the price of books are not updated if the price is below 7
+
+15) Create a set of queries that will take the insert for sale but of the price is greater than 40 then the insert should not happen

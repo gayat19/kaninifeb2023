@@ -1,0 +1,52 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace UnderstandingTypesApp
+{
+    class Program
+    {
+        static int number1, number2;
+        static void TakeNumbers()
+        {
+            Console.WriteLine("Please enter the first number");
+            number1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Please enter the second number");
+            number2 = Int32.Parse(Console.ReadLine());
+        }
+        static void Main(string[] args)
+        {
+            TakeNumbers();
+            Add(number1, number2);
+            //Console.WriteLine("Please enter your name");
+            //string username = Console.ReadLine();//Taken input
+            //Console.WriteLine("Welcome " + username);//used the value
+            //Console.WriteLine("Please enter the first number");
+            //int number1 = 0;
+            //number1 = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine(++number1);
+            //Console.WriteLine("Please enter the second number");
+            //int number2;
+            //number2 = Int32.Parse(Console.ReadLine());
+            //int sum = number1 + number2;
+            //Console.WriteLine("The sum of " + number1 + " and " + number2 + " is " + sum);
+            //Console.WriteLine("The sum of {0} and {1} is {2}", number1, number2, sum);
+            //Console.WriteLine(int.MaxValue);
+            string strSomething = null;
+            //int number = Convert.ToInt32(strSomething);
+            int number = Int32.Parse(strSomething);
+            Console.WriteLine(number); 
+
+            Console.ReadKey();
+        }
+
+        private static void Add(int number1, int number2)
+        {
+            int sum = number1 + number2;
+            Console.WriteLine("The sum of " + number1 + " and " + number2 + " is " + sum);
+            Console.WriteLine("The sum of {0} and {1} is {2}", number1, number2, sum);
+        }
+    }
+}

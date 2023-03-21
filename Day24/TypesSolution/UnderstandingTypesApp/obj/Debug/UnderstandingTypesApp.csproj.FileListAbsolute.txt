@@ -1,0 +1,7 @@
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day24\TypesSolution\UnderstandingTypesApp\obj\Debug\UnderstandingTypesApp.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day24\TypesSolution\UnderstandingTypesApp\obj\Debug\UnderstandingTypesApp.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day24\TypesSolution\UnderstandingTypesApp\bin\Debug\UnderstandingTypesApp.exe.config
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day24\TypesSolution\UnderstandingTypesApp\bin\Debug\UnderstandingTypesApp.exe
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day24\TypesSolution\UnderstandingTypesApp\bin\Debug\UnderstandingTypesApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day24\TypesSolution\UnderstandingTypesApp\obj\Debug\UnderstandingTypesApp.exe
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day24\TypesSolution\UnderstandingTypesApp\obj\Debug\UnderstandingTypesApp.pdb
