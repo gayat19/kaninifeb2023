@@ -1,0 +1,7 @@
+Execution <=> Space in the memory +Processor's time
+
+
+ Console.WriteLine("In th emain method");
+            Phone p1 = new Phone();
+            p1.Colour = "Black";
+            p1.PhoneCalling();

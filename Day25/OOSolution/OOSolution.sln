@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingOOApp", "UnderstandingOOApp\UnderstandingOOApp.csproj", "{8FB96FE5-A815-4950-BB38-67AA3D29212C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FB96FE5-A815-4950-BB38-67AA3D29212C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FB96FE5-A815-4950-BB38-67AA3D29212C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FB96FE5-A815-4950-BB38-67AA3D29212C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FB96FE5-A815-4950-BB38-67AA3D29212C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81BBFFB9-FA72-4663-8644-82C703697BCB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\InheritanceSolution\UnderstandingInheritanceApp\bin\Debug\net6.0\UnderstandingInheritanceApp.exe
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\InheritanceSolution\UnderstandingInheritanceApp\bin\Debug\net6.0\UnderstandingInheritanceApp.deps.json
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\InheritanceSolution\UnderstandingInheritanceApp\bin\Debug\net6.0\UnderstandingInheritanceApp.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\InheritanceSolution\UnderstandingInheritanceApp\bin\Debug\net6.0\UnderstandingInheritanceApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\InheritanceSolution\UnderstandingInheritanceApp\bin\Debug\net6.0\UnderstandingInheritanceApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\InheritanceSolution\UnderstandingInheritanceApp\obj\Debug\net6.0\UnderstandingInheritanceApp.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\InheritanceSolution\UnderstandingInheritanceApp\obj\Debug\net6.0\UnderstandingInheritanceApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\InheritanceSolution\UnderstandingInheritanceApp\obj\Debug\net6.0\UnderstandingInheritanceApp.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\InheritanceSolution\UnderstandingInheritanceApp\obj\Debug\net6.0\UnderstandingInheritanceApp.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\InheritanceSolution\UnderstandingInheritanceApp\obj\Debug\net6.0\UnderstandingInheritanceApp.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\InheritanceSolution\UnderstandingInheritanceApp\obj\Debug\net6.0\UnderstandingInheritanceApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\InheritanceSolution\UnderstandingInheritanceApp\obj\Debug\net6.0\refint\UnderstandingInheritanceApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\InheritanceSolution\UnderstandingInheritanceApp\obj\Debug\net6.0\UnderstandingInheritanceApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\InheritanceSolution\UnderstandingInheritanceApp\obj\Debug\net6.0\UnderstandingInheritanceApp.genruntimeconfig.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\InheritanceSolution\UnderstandingInheritanceApp\obj\Debug\net6.0\ref\UnderstandingInheritanceApp.dll

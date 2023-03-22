@@ -1,0 +1,15 @@
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\OOSolution\UnderstandingOOApp\bin\Debug\net6.0\UnderstandingOOApp.exe
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\OOSolution\UnderstandingOOApp\bin\Debug\net6.0\UnderstandingOOApp.deps.json
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\OOSolution\UnderstandingOOApp\bin\Debug\net6.0\UnderstandingOOApp.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\OOSolution\UnderstandingOOApp\bin\Debug\net6.0\UnderstandingOOApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\OOSolution\UnderstandingOOApp\bin\Debug\net6.0\UnderstandingOOApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\OOSolution\UnderstandingOOApp\obj\Debug\net6.0\UnderstandingOOApp.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\OOSolution\UnderstandingOOApp\obj\Debug\net6.0\UnderstandingOOApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\OOSolution\UnderstandingOOApp\obj\Debug\net6.0\UnderstandingOOApp.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\OOSolution\UnderstandingOOApp\obj\Debug\net6.0\UnderstandingOOApp.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\OOSolution\UnderstandingOOApp\obj\Debug\net6.0\UnderstandingOOApp.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\OOSolution\UnderstandingOOApp\obj\Debug\net6.0\UnderstandingOOApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\OOSolution\UnderstandingOOApp\obj\Debug\net6.0\refint\UnderstandingOOApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\OOSolution\UnderstandingOOApp\obj\Debug\net6.0\UnderstandingOOApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\OOSolution\UnderstandingOOApp\obj\Debug\net6.0\UnderstandingOOApp.genruntimeconfig.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\OOSolution\UnderstandingOOApp\obj\Debug\net6.0\ref\UnderstandingOOApp.dll

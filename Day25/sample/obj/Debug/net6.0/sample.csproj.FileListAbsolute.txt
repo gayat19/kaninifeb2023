@@ -1,0 +1,15 @@
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\sample\bin\Debug\net6.0\sample.exe
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\sample\bin\Debug\net6.0\sample.deps.json
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\sample\bin\Debug\net6.0\sample.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\sample\bin\Debug\net6.0\sample.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\sample\bin\Debug\net6.0\sample.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\sample\obj\Debug\net6.0\sample.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\sample\obj\Debug\net6.0\sample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\sample\obj\Debug\net6.0\sample.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\sample\obj\Debug\net6.0\sample.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\sample\obj\Debug\net6.0\sample.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\sample\obj\Debug\net6.0\sample.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\sample\obj\Debug\net6.0\refint\sample.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\sample\obj\Debug\net6.0\sample.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\sample\obj\Debug\net6.0\sample.genruntimeconfig.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day25\sample\obj\Debug\net6.0\ref\sample.dll

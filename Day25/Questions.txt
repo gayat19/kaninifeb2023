@@ -1,0 +1,20 @@
+1) Create a application that take 2 numbers and find its sum, product and divide the first by second, also supractthe second from teh first. 
+Include another method to find the remainder when the first number is divided by second
+
+2)  create an application that will find the greatest of the given numbers. Take input until the user enters a negative number
+
+3) Find the avearage of all the numbers that are divisible by 7. Take input until the user enters a negative number
+
+4) Find the length of the given user's name
+
+5) Create a application that will take username and password from user. check if username is "ABC" and passwod is "123". 
+Print error message if username or password is wrong
+Allow user 3 attemts.
+After 3rd attempt if user enters invalid credentials then print msg to intimate user taht he/she has exceeded teh number of attempts and stop
+
+6) Create a class Doctor(Id, Name, Experience), Has behaviour to take the doctor details from user and another to print the doctor's details.
+
+Create a class Clinic
+properties - 
+IncludeDoctor- ceate a new doctor and returns it
+PrintDoctorDetails - takes the doctor as parameter and prints the details
