@@ -1,0 +1,15 @@
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day26\ArraySolution\UndertandingUserTypeArrayApp\bin\Debug\net6.0\UndertandingUserTypeArrayApp.exe
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day26\ArraySolution\UndertandingUserTypeArrayApp\bin\Debug\net6.0\UndertandingUserTypeArrayApp.deps.json
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day26\ArraySolution\UndertandingUserTypeArrayApp\bin\Debug\net6.0\UndertandingUserTypeArrayApp.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day26\ArraySolution\UndertandingUserTypeArrayApp\bin\Debug\net6.0\UndertandingUserTypeArrayApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day26\ArraySolution\UndertandingUserTypeArrayApp\bin\Debug\net6.0\UndertandingUserTypeArrayApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day26\ArraySolution\UndertandingUserTypeArrayApp\obj\Debug\net6.0\UndertandingUserTypeArrayApp.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day26\ArraySolution\UndertandingUserTypeArrayApp\obj\Debug\net6.0\UndertandingUserTypeArrayApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day26\ArraySolution\UndertandingUserTypeArrayApp\obj\Debug\net6.0\UndertandingUserTypeArrayApp.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day26\ArraySolution\UndertandingUserTypeArrayApp\obj\Debug\net6.0\UndertandingUserTypeArrayApp.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day26\ArraySolution\UndertandingUserTypeArrayApp\obj\Debug\net6.0\UndertandingUserTypeArrayApp.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day26\ArraySolution\UndertandingUserTypeArrayApp\obj\Debug\net6.0\UndertandingUserTypeArrayApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day26\ArraySolution\UndertandingUserTypeArrayApp\obj\Debug\net6.0\refint\UndertandingUserTypeArrayApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day26\ArraySolution\UndertandingUserTypeArrayApp\obj\Debug\net6.0\UndertandingUserTypeArrayApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day26\ArraySolution\UndertandingUserTypeArrayApp\obj\Debug\net6.0\UndertandingUserTypeArrayApp.genruntimeconfig.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day26\ArraySolution\UndertandingUserTypeArrayApp\obj\Debug\net6.0\ref\UndertandingUserTypeArrayApp.dll

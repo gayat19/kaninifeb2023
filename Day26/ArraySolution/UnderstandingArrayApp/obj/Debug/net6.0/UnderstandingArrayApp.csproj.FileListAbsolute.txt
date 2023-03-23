@@ -1,0 +1,15 @@
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day26\ArraySolution\UnderstandingArrayApp\bin\Debug\net6.0\UnderstandingArrayApp.exe
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day26\ArraySolution\UnderstandingArrayApp\bin\Debug\net6.0\UnderstandingArrayApp.deps.json
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day26\ArraySolution\UnderstandingArrayApp\bin\Debug\net6.0\UnderstandingArrayApp.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day26\ArraySolution\UnderstandingArrayApp\bin\Debug\net6.0\UnderstandingArrayApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day26\ArraySolution\UnderstandingArrayApp\bin\Debug\net6.0\UnderstandingArrayApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day26\ArraySolution\UnderstandingArrayApp\obj\Debug\net6.0\UnderstandingArrayApp.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day26\ArraySolution\UnderstandingArrayApp\obj\Debug\net6.0\UnderstandingArrayApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day26\ArraySolution\UnderstandingArrayApp\obj\Debug\net6.0\UnderstandingArrayApp.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day26\ArraySolution\UnderstandingArrayApp\obj\Debug\net6.0\UnderstandingArrayApp.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day26\ArraySolution\UnderstandingArrayApp\obj\Debug\net6.0\UnderstandingArrayApp.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day26\ArraySolution\UnderstandingArrayApp\obj\Debug\net6.0\UnderstandingArrayApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day26\ArraySolution\UnderstandingArrayApp\obj\Debug\net6.0\refint\UnderstandingArrayApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day26\ArraySolution\UnderstandingArrayApp\obj\Debug\net6.0\UnderstandingArrayApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day26\ArraySolution\UnderstandingArrayApp\obj\Debug\net6.0\UnderstandingArrayApp.genruntimeconfig.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day26\ArraySolution\UnderstandingArrayApp\obj\Debug\net6.0\ref\UnderstandingArrayApp.dll

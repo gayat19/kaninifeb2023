@@ -1,0 +1,16 @@
+1) Create an array of doctors and print the details
+
+2) Take a string from user the words seperated by comma(","). Seperate the words and find out the longest and the shortest word in it
+
+3) Take a string from user the words seperated by comma(","). Seperate the words and find the words with the least number of repeating vowels. print the count and the word. If there is a tie then print all the words that tie for the least
+
+4) Take number from user until 0 is entered. Print all the prime numbers entered 
+
+5) Validate a Card number
+4477 4683 4311 3002
+2003 1134 3864 7744- Reverse the number
+2+0*2+0+3*2+1+1*2+3+4*2+3+8*2+6+4*2+7+7*2+4+4*2 - identify the even position numbers and multiply by 2
+2+0+0+6+1+2+3+8+3+16+6+8+7+14+4+8 - Multiplied
+2+0+0+6+1+2+3+8+3+(1+6)+6+8+7+(1+4)+4+8 - If results in 2 digit number sum them up
+2+0+0+6+1+2+3+8+3+7+6+8+7+5+4+8 - Sum up all teh values
+70%10-> Divide by 10 if 0 remainder then valid card number
