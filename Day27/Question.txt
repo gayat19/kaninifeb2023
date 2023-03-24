@@ -1,0 +1,5 @@
+1) * Update the doctor class to have an array of speciality that the doctor can handle(array). Update the addDoctor and the print doctor accordingly
+
+  * Update the clinic class to take the number of speciality and initialize the doctor class accordingly.
+
+  * Ensure you expose the doctor array through the clinic object

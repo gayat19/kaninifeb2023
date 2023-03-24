@@ -1,0 +1,15 @@
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day27\IndexerSolution\UnderstandingIndexerApp\bin\Debug\net6.0\UnderstandingIndexerApp.exe
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day27\IndexerSolution\UnderstandingIndexerApp\bin\Debug\net6.0\UnderstandingIndexerApp.deps.json
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day27\IndexerSolution\UnderstandingIndexerApp\bin\Debug\net6.0\UnderstandingIndexerApp.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day27\IndexerSolution\UnderstandingIndexerApp\bin\Debug\net6.0\UnderstandingIndexerApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day27\IndexerSolution\UnderstandingIndexerApp\bin\Debug\net6.0\UnderstandingIndexerApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day27\IndexerSolution\UnderstandingIndexerApp\obj\Debug\net6.0\UnderstandingIndexerApp.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day27\IndexerSolution\UnderstandingIndexerApp\obj\Debug\net6.0\UnderstandingIndexerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day27\IndexerSolution\UnderstandingIndexerApp\obj\Debug\net6.0\UnderstandingIndexerApp.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day27\IndexerSolution\UnderstandingIndexerApp\obj\Debug\net6.0\UnderstandingIndexerApp.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day27\IndexerSolution\UnderstandingIndexerApp\obj\Debug\net6.0\UnderstandingIndexerApp.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day27\IndexerSolution\UnderstandingIndexerApp\obj\Debug\net6.0\UnderstandingIndexerApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day27\IndexerSolution\UnderstandingIndexerApp\obj\Debug\net6.0\refint\UnderstandingIndexerApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day27\IndexerSolution\UnderstandingIndexerApp\obj\Debug\net6.0\UnderstandingIndexerApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day27\IndexerSolution\UnderstandingIndexerApp\obj\Debug\net6.0\UnderstandingIndexerApp.genruntimeconfig.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day27\IndexerSolution\UnderstandingIndexerApp\obj\Debug\net6.0\ref\UnderstandingIndexerApp.dll

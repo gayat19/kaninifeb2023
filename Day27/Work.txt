@@ -1,0 +1,10 @@
+          //int? number = null;
+            //number = 100;
+            //int another = number??0;
+            int summa = int.MaxValue;
+            checked
+            {
+                summa++;
+            }
+            Console.WriteLine(summa);
+            Console.WriteLine("Hello, World!"); 
