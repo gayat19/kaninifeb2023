@@ -1,0 +1,7 @@
+
+1) Start over the specialization array and make it 2 dimensional. If given the specialization name then we should get back the number of years the doctor is experienced in the same.
+
+2) Ensure you can compare on doctor to another based on their years of experience and specialization
+
+3) Add functionality to the clinic class to add or remove specialization of a doctor. Add or remove a doctor.
+

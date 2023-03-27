@@ -1,0 +1,15 @@
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day28\OverridingSolution\UnderstandingOverridingApp\bin\Debug\net6.0\UnderstandingOverridingApp.exe
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day28\OverridingSolution\UnderstandingOverridingApp\bin\Debug\net6.0\UnderstandingOverridingApp.deps.json
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day28\OverridingSolution\UnderstandingOverridingApp\bin\Debug\net6.0\UnderstandingOverridingApp.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day28\OverridingSolution\UnderstandingOverridingApp\bin\Debug\net6.0\UnderstandingOverridingApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day28\OverridingSolution\UnderstandingOverridingApp\bin\Debug\net6.0\UnderstandingOverridingApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day28\OverridingSolution\UnderstandingOverridingApp\obj\Debug\net6.0\UnderstandingOverridingApp.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day28\OverridingSolution\UnderstandingOverridingApp\obj\Debug\net6.0\UnderstandingOverridingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day28\OverridingSolution\UnderstandingOverridingApp\obj\Debug\net6.0\UnderstandingOverridingApp.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day28\OverridingSolution\UnderstandingOverridingApp\obj\Debug\net6.0\UnderstandingOverridingApp.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day28\OverridingSolution\UnderstandingOverridingApp\obj\Debug\net6.0\UnderstandingOverridingApp.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day28\OverridingSolution\UnderstandingOverridingApp\obj\Debug\net6.0\UnderstandingOverridingApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day28\OverridingSolution\UnderstandingOverridingApp\obj\Debug\net6.0\refint\UnderstandingOverridingApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day28\OverridingSolution\UnderstandingOverridingApp\obj\Debug\net6.0\UnderstandingOverridingApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day28\OverridingSolution\UnderstandingOverridingApp\obj\Debug\net6.0\UnderstandingOverridingApp.genruntimeconfig.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day28\OverridingSolution\UnderstandingOverridingApp\obj\Debug\net6.0\ref\UnderstandingOverridingApp.dll
