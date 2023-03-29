@@ -8,7 +8,7 @@ namespace UnderstandingOverridingApp
 {
     internal class Monkey :Animal
     {
-        public override void Move()
+        public sealed override void Move()
         {
             //base.Move();
             Console.WriteLine("jump jump");

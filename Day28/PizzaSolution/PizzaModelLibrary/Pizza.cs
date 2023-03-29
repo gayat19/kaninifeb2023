@@ -2,6 +2,7 @@
 {
     public class Pizza
     {
+        object o;
         public string[] toppings;
 
         public string this[int index]
@@ -22,10 +23,26 @@
         //            }
         //        }
         //        return idx;
-                    
+
         //    }
-           
+
         //}
+        public override string ToString()
+        {
+            string message = "";
+
+            message += "Pizza Details";
+            message += $"\nPizza Id : {Id}";//Interpollation
+            message += $"\nPizza name : {Name}";//Interpollation
+            message += $"\nPizza price : Rs.{Price}";//Interpollation
+            int count = 0;
+            while (toppings[count] != null)
+            {
+                message +=  $"\n\tTopping {count} {toppings[count]}";
+                count++;
+            }
+            return message;
+        }
         public int this[string name]
         {
             get

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UnderstandingAbstractionApp/1.0.0": {
+        "dependencies": {
+          "PizzaModelLibrary": "1.0.0.0"
+        },
+        "runtime": {
+          "UnderstandingAbstractionApp.dll": {}
+        }
+      },
+      "PizzaModelLibrary/1.0.0.0": {
+        "runtime": {
+          "PizzaModelLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UnderstandingAbstractionApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PizzaModelLibrary/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
