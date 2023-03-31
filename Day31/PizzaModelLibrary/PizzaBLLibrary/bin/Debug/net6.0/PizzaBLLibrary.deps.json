@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PizzaBLLibrary/1.0.0": {
+        "dependencies": {
+          "PizzaDALLibrary": "1.0.0",
+          "PizzaModelLibrary": "1.0.0"
+        },
+        "runtime": {
+          "PizzaBLLibrary.dll": {}
+        }
+      },
+      "PizzaDALLibrary/1.0.0": {
+        "dependencies": {
+          "PizzaModelLibrary": "1.0.0"
+        },
+        "runtime": {
+          "PizzaDALLibrary.dll": {}
+        }
+      },
+      "PizzaModelLibrary/1.0.0": {
+        "runtime": {
+          "PizzaModelLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PizzaBLLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PizzaDALLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PizzaModelLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
