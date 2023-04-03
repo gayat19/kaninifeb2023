@@ -1,0 +1,15 @@
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day32\ExcepionSolution\UnderstandingExcepionApp\bin\Debug\net6.0\UnderstandingExcepionApp.exe
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day32\ExcepionSolution\UnderstandingExcepionApp\bin\Debug\net6.0\UnderstandingExcepionApp.deps.json
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day32\ExcepionSolution\UnderstandingExcepionApp\bin\Debug\net6.0\UnderstandingExcepionApp.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day32\ExcepionSolution\UnderstandingExcepionApp\bin\Debug\net6.0\UnderstandingExcepionApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day32\ExcepionSolution\UnderstandingExcepionApp\bin\Debug\net6.0\UnderstandingExcepionApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day32\ExcepionSolution\UnderstandingExcepionApp\obj\Debug\net6.0\UnderstandingExcepionApp.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day32\ExcepionSolution\UnderstandingExcepionApp\obj\Debug\net6.0\UnderstandingExcepionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day32\ExcepionSolution\UnderstandingExcepionApp\obj\Debug\net6.0\UnderstandingExcepionApp.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day32\ExcepionSolution\UnderstandingExcepionApp\obj\Debug\net6.0\UnderstandingExcepionApp.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day32\ExcepionSolution\UnderstandingExcepionApp\obj\Debug\net6.0\UnderstandingExcepionApp.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day32\ExcepionSolution\UnderstandingExcepionApp\obj\Debug\net6.0\UnderstandingExcepionApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day32\ExcepionSolution\UnderstandingExcepionApp\obj\Debug\net6.0\refint\UnderstandingExcepionApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day32\ExcepionSolution\UnderstandingExcepionApp\obj\Debug\net6.0\UnderstandingExcepionApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day32\ExcepionSolution\UnderstandingExcepionApp\obj\Debug\net6.0\UnderstandingExcepionApp.genruntimeconfig.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day32\ExcepionSolution\UnderstandingExcepionApp\obj\Debug\net6.0\ref\UnderstandingExcepionApp.dll

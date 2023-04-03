@@ -92,6 +92,8 @@
                 Console.WriteLine("You don't even know to entrr price preperly. Who made you the data entry person???");
             }
             Price = price;
+            if(price<1)
+                throw new InvalidPriceException();
             //Console.WriteLine("How many toppings do you like to add??");
             //int toppingsCount = Convert.ToInt32(Console.ReadLine());
             //Console.WriteLine("Please enter the toppings");

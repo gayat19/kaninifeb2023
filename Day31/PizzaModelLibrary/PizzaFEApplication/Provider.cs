@@ -3,6 +3,7 @@ using PizzaDALLibrary;
 using PizzaModelLibrary;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -26,15 +27,23 @@ namespace PizzaFEApplication
             do
             {
                 StorePizza pizza = new StorePizza();
-                pizza.TakePizzaDetails();
-                bool result;
-                pizzaRepository.Add(pizza,out result);
-                if(result )
-                    Console.WriteLine("Pizza added successfully");
-                else
+                try
                 {
-                    Console.WriteLine("We do not have a spot to insert the new pizza type");
-                    break;
+                    pizza.TakePizzaDetails();
+                    bool result;
+                    pizzaRepository.Add(pizza, out result);
+                    if (result)
+                        Console.WriteLine("Pizza added successfully");
+                    else
+                    {
+                        Console.WriteLine("We do not have a spot to insert the new pizza type");
+                        break;
+                    }
+                }
+                catch (InvalidPriceException ivpe)
+                {
+                    Console.WriteLine("The price of the pizza is not valid for entry");
+                    Debug.WriteLine(ivpe.Message);
                 }
                 Console.WriteLine("Do you want to add another pizza");
                 while(!int.TryParse(Console.ReadLine(),out choice))

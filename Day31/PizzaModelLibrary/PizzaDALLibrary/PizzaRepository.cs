@@ -72,15 +72,23 @@ namespace PizzaDALLibrary
         public Pizza Delete(int id, out bool status)
         {
             int _position = GetPizzaIndex(id);
-            if (_position >= 0)
+            bool myStatus = false;
+            try
             {
-                Pizza pizza = pizzas[_position];
-                pizzas[_position] = null;
-                status = true;
-                return pizza;
+                if (_position >= 0)
+                {
+                    Pizza pizza = pizzas[_position];
+                    pizzas[_position] = null;
+                    myStatus = true;
+                    return pizza;
+                }
+                else
+                    throw new UnableToDeleteException();
             }
-            status = false;
-            return null;
+            finally
+            {
+                status = myStatus;
+            }
         }
 
         public Pizza Get(int id)
