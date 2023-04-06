@@ -1,0 +1,15 @@
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\OtherCollectionSolution\OtherCollectionApp\bin\Debug\net6.0\OtherCollectionApp.exe
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\OtherCollectionSolution\OtherCollectionApp\bin\Debug\net6.0\OtherCollectionApp.deps.json
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\OtherCollectionSolution\OtherCollectionApp\bin\Debug\net6.0\OtherCollectionApp.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\OtherCollectionSolution\OtherCollectionApp\bin\Debug\net6.0\OtherCollectionApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\OtherCollectionSolution\OtherCollectionApp\bin\Debug\net6.0\OtherCollectionApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\OtherCollectionSolution\OtherCollectionApp\obj\Debug\net6.0\OtherCollectionApp.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\OtherCollectionSolution\OtherCollectionApp\obj\Debug\net6.0\OtherCollectionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\OtherCollectionSolution\OtherCollectionApp\obj\Debug\net6.0\OtherCollectionApp.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\OtherCollectionSolution\OtherCollectionApp\obj\Debug\net6.0\OtherCollectionApp.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\OtherCollectionSolution\OtherCollectionApp\obj\Debug\net6.0\OtherCollectionApp.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\OtherCollectionSolution\OtherCollectionApp\obj\Debug\net6.0\OtherCollectionApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\OtherCollectionSolution\OtherCollectionApp\obj\Debug\net6.0\refint\OtherCollectionApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\OtherCollectionSolution\OtherCollectionApp\obj\Debug\net6.0\OtherCollectionApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\OtherCollectionSolution\OtherCollectionApp\obj\Debug\net6.0\OtherCollectionApp.genruntimeconfig.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\OtherCollectionSolution\OtherCollectionApp\obj\Debug\net6.0\ref\OtherCollectionApp.dll
