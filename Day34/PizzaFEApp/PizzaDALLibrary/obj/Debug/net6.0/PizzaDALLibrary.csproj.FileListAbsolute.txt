@@ -1,0 +1,15 @@
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaDALLibrary\bin\Debug\net6.0\PizzaDALLibrary.deps.json
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaDALLibrary\bin\Debug\net6.0\PizzaDALLibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaDALLibrary\bin\Debug\net6.0\PizzaDALLibrary.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaDALLibrary\bin\Debug\net6.0\PizzaModelLibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaDALLibrary\bin\Debug\net6.0\PizzaModelLibrary.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaDALLibrary\obj\Debug\net6.0\PizzaDALLibrary.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaDALLibrary\obj\Debug\net6.0\PizzaDALLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaDALLibrary\obj\Debug\net6.0\PizzaDALLibrary.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaDALLibrary\obj\Debug\net6.0\PizzaDALLibrary.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaDALLibrary\obj\Debug\net6.0\PizzaDALLibrary.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaDALLibrary\obj\Debug\net6.0\PizzaDALLibrary.csproj.CopyComplete
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaDALLibrary\obj\Debug\net6.0\PizzaDALLibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaDALLibrary\obj\Debug\net6.0\refint\PizzaDALLibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaDALLibrary\obj\Debug\net6.0\PizzaDALLibrary.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaDALLibrary\obj\Debug\net6.0\ref\PizzaDALLibrary.dll

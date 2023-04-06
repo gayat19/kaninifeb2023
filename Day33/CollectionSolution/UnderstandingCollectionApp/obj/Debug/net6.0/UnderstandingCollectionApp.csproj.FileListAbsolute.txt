@@ -1,0 +1,15 @@
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day33\CollectionSolution\UnderstandingCollectionApp\bin\Debug\net6.0\UnderstandingCollectionApp.exe
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day33\CollectionSolution\UnderstandingCollectionApp\bin\Debug\net6.0\UnderstandingCollectionApp.deps.json
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day33\CollectionSolution\UnderstandingCollectionApp\bin\Debug\net6.0\UnderstandingCollectionApp.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day33\CollectionSolution\UnderstandingCollectionApp\bin\Debug\net6.0\UnderstandingCollectionApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day33\CollectionSolution\UnderstandingCollectionApp\bin\Debug\net6.0\UnderstandingCollectionApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day33\CollectionSolution\UnderstandingCollectionApp\obj\Debug\net6.0\UnderstandingCollectionApp.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day33\CollectionSolution\UnderstandingCollectionApp\obj\Debug\net6.0\UnderstandingCollectionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day33\CollectionSolution\UnderstandingCollectionApp\obj\Debug\net6.0\UnderstandingCollectionApp.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day33\CollectionSolution\UnderstandingCollectionApp\obj\Debug\net6.0\UnderstandingCollectionApp.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day33\CollectionSolution\UnderstandingCollectionApp\obj\Debug\net6.0\UnderstandingCollectionApp.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day33\CollectionSolution\UnderstandingCollectionApp\obj\Debug\net6.0\UnderstandingCollectionApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day33\CollectionSolution\UnderstandingCollectionApp\obj\Debug\net6.0\refint\UnderstandingCollectionApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day33\CollectionSolution\UnderstandingCollectionApp\obj\Debug\net6.0\UnderstandingCollectionApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day33\CollectionSolution\UnderstandingCollectionApp\obj\Debug\net6.0\UnderstandingCollectionApp.genruntimeconfig.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day33\CollectionSolution\UnderstandingCollectionApp\obj\Debug\net6.0\ref\UnderstandingCollectionApp.dll

@@ -1,0 +1,17 @@
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaBLLibrary\bin\Debug\net6.0\PizzaBLLibrary.deps.json
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaBLLibrary\bin\Debug\net6.0\PizzaBLLibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaBLLibrary\bin\Debug\net6.0\PizzaBLLibrary.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaBLLibrary\bin\Debug\net6.0\PizzaDALLibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaBLLibrary\bin\Debug\net6.0\PizzaModelLibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaBLLibrary\bin\Debug\net6.0\PizzaDALLibrary.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaBLLibrary\bin\Debug\net6.0\PizzaModelLibrary.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaBLLibrary\obj\Debug\net6.0\PizzaBLLibrary.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaBLLibrary\obj\Debug\net6.0\PizzaBLLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaBLLibrary\obj\Debug\net6.0\PizzaBLLibrary.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaBLLibrary\obj\Debug\net6.0\PizzaBLLibrary.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaBLLibrary\obj\Debug\net6.0\PizzaBLLibrary.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaBLLibrary\obj\Debug\net6.0\PizzaBLLibrary.csproj.CopyComplete
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaBLLibrary\obj\Debug\net6.0\PizzaBLLibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaBLLibrary\obj\Debug\net6.0\refint\PizzaBLLibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaBLLibrary\obj\Debug\net6.0\PizzaBLLibrary.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaBLLibrary\obj\Debug\net6.0\ref\PizzaBLLibrary.dll

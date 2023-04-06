@@ -1,0 +1,21 @@
+int[] arr = new int[3];
+            arr[0] = 1;
+            arr[1] = 2;
+            arr[2] = 3;
+            arr[3] = 4;
+            foreach (int i in arr)
+            {
+                Console.WriteLine(i);
+            }
+
+-
+ArrayList list = new ArrayList();
+            list.Add(100);
+            list.Add("Hello");
+            list.Add(13.4f);
+            list.Add(new { Id = 101, Name = "Ramu" });
+            list.Add(new Employee(101,"Somu",232434));
+            foreach (var item in list)
+            {
+                Console.WriteLine(item);
+            }
