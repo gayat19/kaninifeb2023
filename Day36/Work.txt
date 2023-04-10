@@ -1,0 +1,74 @@
+https://meet.google.com/jrh-npgg-qau
+
+
+ADO.NET - Disconnected architecture
+DOM
+
+
+DESKTOP-1C1EU5R\SQLSERVER2019G3
+sa
+P@ssw0rd
+
+Data Source=DESKTOP-1C1EU5R\\SQLSERVER2019G3;user id=sa;password=P@ssw0rd;Initial Catalog=dbRecruitApr2023
+
+Data Source=DESKTOP-1C1EU5R\\SQLSERVER2019G3;Integrated Security=true;Initial Catalog=dbRecruitApr2023
+
+
+//Console.WriteLine("Please enter the username");
+            //username = Console.ReadLine();
+            //Console.WriteLine("Please enter the password");
+            //password = Console.ReadLine();
+            //Console.WriteLine("Please enter the role");
+            //role = Console.ReadLine();
+            //string insertQuery = "Insert into tblUsers values('" + username + "','" + password + "','" + role + "')";
+
+use master 
+GO
+
+Create database dbRecruitApr2023
+GO
+
+use dbRecruitApr2023
+GO
+
+Create table tblUsers
+(username varchar(50) primary key,
+password varchar(20),
+role varchar(5))
+GO
+
+create table tblProfile
+(Id int identity(1,1) primary key,
+Name varchar(20), 
+Age int default 18, 
+Qualification varchar(20), 
+IsEmployed bit, 
+NoticePeriod int, 
+CurrentCTC float,
+username varchar(50) references tblUSers(username) )
+GO
+
+
+insert into tblUsers values('tim','1234','admin')
+insert into tblUsers values('jim','4321','user')
+insert into tblUsers values('kim','1111','admin')
+insert into tblUsers values('lim','2222','user')
+GO
+
+insert into tblProfile(name,Age,Qualification,IsEmployed,NoticePeriod,CurrentCTC,username)
+values('Jim J',22,'B.E',1,2,1200000.7,'jim')
+GO
+
+select * from tblUSers
+
+create proc proc_InsertUser(@uname varchar(20),@upass varchar(20),@urole varchar(20))
+as
+  insert into tblusers values(@uname,@upass,@urole)
+
+exec proc_InsertUSer 'fin','4322','user'
+
+create proc proc_FetchUSers
+as
+  select * from tblUsers
+
+exec proc_FetchUSers

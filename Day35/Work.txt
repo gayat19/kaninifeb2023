@@ -1,0 +1,217 @@
+namespace InBuiltDelegatesApp
+{
+    internal class Program
+    {
+        //public delegate void CalDel(int n1);
+        //public delegate void CalDelFloat(float n1);
+        //public delegate void CalDel<T>(T n1);
+        void Add(int num1)
+        {
+            num1++;
+            Console.WriteLine("The result is "+num1);
+        }
+        void AddFloat(float num1)
+        {
+            num1 += 1;
+            Console.WriteLine("The result is " + num1);
+        }
+        static void Main(string[] args)
+        {
+            Program program = new Program();
+            //CalDel del = new CalDel(program.Add);
+            //CalDel<int> del = delegate (int num1)
+            //{
+            //    num1++;
+            //    Console.WriteLine("The result is " + num1);
+            //};
+            //CalDel<int> del = (num1)=>Console.WriteLine("The result is " + (++num1));
+            Action<int> del = (num1) => Console.WriteLine("The result is " + (++num1));
+            //CalDel<float> fdel = delegate (float num1)
+            //{
+            //    num1 += 1;
+            //    Console.WriteLine("The result is " + num1);
+            //};
+            //fdel(12.4f);
+            del(100);
+
+            Console.WriteLine("Hello, World!");
+        }
+    }
+}
+
+
+namespace InBuiltDelegatesApp
+{
+    internal class Program
+    {
+        string Add(int n1,int num2)
+        {
+            int sum = n1 + num2;
+            return "The sum is " + sum;
+        }
+        static void CallMethod(Action<int> myref)
+        {
+            myref(100);
+        }
+        static void Main(string[] args)
+        {
+            Action<int> del = (num1) => Console.WriteLine("The result is " + (++num1));
+            CallMethod(del);
+            //Func<int, int, string> addDel = new Program().Add;
+            Func<int, int, string> addDel = (n1, n2) =>
+            {
+                int sum = n1 + n2;
+                return "The sum is " + sum;
+            };
+            //Func<int, int, string> addDel = (n1, n2) => "The sum is " + (n1 + n2);
+            //del(100);
+            var data = addDel(10, 20);
+            Console.WriteLine(data);
+            Console.WriteLine("Hello, World!");
+        }
+    }
+}
+
+
+using System;
+
+namespace InBuiltDelegatesApp
+{
+    public class Student
+    {
+        public string First { get; set; }
+        public string Last { get; set; }
+        public int ID { get; set; }
+        public List<int> Scores;
+        public override string ToString()
+        {
+            return First+" " + Last+" " + ID;
+        }
+    }
+    internal class Program
+    {
+        static List<Student> students = new List<Student>
+            {
+                new Student {First="Svetlana", Last="Omelchenko", ID=111, Scores= new List<int> {97, 92, 81, 60}},
+                new Student {First="Claire", Last="O'Donnell", ID=112, Scores= new List<int> {75, 84, 91, 39}},
+                new Student {First="Sven", Last="Mortensen", ID=113, Scores= new List<int> {88, 94, 65, 91}},
+                new Student {First="Cesar", Last="Garcia", ID=114, Scores= new List<int> {97, 89, 85, 82}},
+                new Student {First="Debra", Last="Garcia", ID=115, Scores= new List<int> {35, 72, 91, 70}},
+                new Student {First="Fadi", Last="Fakhouri", ID=116, Scores= new List<int> {99, 86, 90, 94}},
+                new Student {First="Hanying", Last="Feng", ID=117, Scores= new List<int> {93, 92, 80, 87}},
+                new Student {First="Hugo", Last="Garcia", ID=118, Scores= new List<int> {92, 90, 83, 78}},
+                new Student {First="Lance", Last="Tucker", ID=119, Scores= new List<int> {68, 79, 88, 92}},
+                new Student {First="Terry", Last="Adams", ID=120, Scores= new List<int> {99, 82, 81, 79}},
+                new Student {First="Eugene", Last="Zabokritski", ID=121, Scores= new List<int> {96, 85, 91, 60}},
+                new Student {First="Michael", Last="Tucker", ID=122, Scores= new List<int> {94, 92, 91, 91}}
+            };
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine( "Please enter the name to check");
+            string name = Console.ReadLine();
+            //Predicate<Student> predicate = (s1) =>
+            //{
+            //    if(s1.First==name)
+            //        return true;
+            //    return false;
+            //};
+            //Student student = students.Find(predicate);
+            Student student = students.Find((s1)=>s1.First==name);
+            Console.WriteLine(student==null?"NO such student":student);
+        }
+    }
+}
+
+
+using System;
+
+namespace InBuiltDelegatesApp
+{
+    public class Student
+    {
+        public string First { get; set; }
+        public string Last { get; set; }
+        public int ID { get; set; }
+        public List<int> Scores;
+        public override string ToString()
+        {
+            return First+" " + Last+" " + ID;
+        }
+    }
+    internal class Program
+    {
+        static List<Student> students = new List<Student>
+            {
+                new Student {First="Svetlana", Last="Omelchenko", ID=111, Scores= new List<int> {97, 92, 81, 60}},
+                new Student {First="Claire", Last="O'Donnell", ID=112, Scores= new List<int> {75, 84, 91, 39}},
+                new Student {First="Sven", Last="Mortensen", ID=113, Scores= new List<int> {88, 94, 65, 91}},
+                new Student {First="Cesar", Last="Garcia", ID=114, Scores= new List<int> {97, 89, 85, 82}},
+                new Student {First="Debra", Last="Garcia", ID=115, Scores= new List<int> {35, 72, 91, 70}},
+                new Student {First="Fadi", Last="Fakhouri", ID=116, Scores= new List<int> {99, 86, 90, 94}},
+                new Student {First="Hanying", Last="Feng", ID=117, Scores= new List<int> {93, 92, 80, 87}},
+                new Student {First="Hugo", Last="Garcia", ID=118, Scores= new List<int> {92, 90, 83, 78}},
+                new Student {First="Lance", Last="Tucker", ID=119, Scores= new List<int> {68, 79, 88, 92}},
+                new Student {First="Terry", Last="Adams", ID=120, Scores= new List<int> {99, 82, 81, 79}},
+                new Student {First="Eugene", Last="Zabokritski", ID=121, Scores= new List<int> {96, 85, 91, 60}},
+                new Student {First="Michael", Last="Tucker", ID=122, Scores= new List<int> {94, 92, 91, 91}}
+            };
+
+        static void Main(string[] args)
+        {
+            int[] scores = { 100, 89, 23, 76, 90 };
+            //var myScores = from score in scores where score > 70 select score;
+            var myScores = scores.Where(s => s > 70);
+            foreach (var item in myScores)
+            {
+                Console.WriteLine(item);
+            }
+        }
+    }
+}
+
+
+using System;
+
+namespace InBuiltDelegatesApp
+{
+    public class Student
+    {
+        public string First { get; set; }
+        public string Last { get; set; }
+        public int ID { get; set; }
+        public List<int> Scores;
+        public override string ToString()
+        {
+            return First+" " + Last+" " + ID;
+        }
+    }
+    internal class Program
+    {
+        static List<Student> students = new List<Student>
+            {
+                new Student {First="Svetlana", Last="Omelchenko", ID=111, Scores= new List<int> {97, 92, 81, 60}},
+                new Student {First="Claire", Last="O'Donnell", ID=112, Scores= new List<int> {75, 84, 91, 39}},
+                new Student {First="Sven", Last="Mortensen", ID=113, Scores= new List<int> {88, 94, 65, 91}},
+                new Student {First="Cesar", Last="Garcia", ID=114, Scores= new List<int> {97, 89, 85, 82}},
+                new Student {First="Debra", Last="Garcia", ID=115, Scores= new List<int> {35, 72, 91, 70}},
+                new Student {First="Fadi", Last="Fakhouri", ID=116, Scores= new List<int> {99, 86, 90, 94}},
+                new Student {First="Hanying", Last="Feng", ID=117, Scores= new List<int> {93, 92, 80, 87}},
+                new Student {First="Hugo", Last="Garcia", ID=118, Scores= new List<int> {92, 90, 83, 78}},
+                new Student {First="Lance", Last="Tucker", ID=119, Scores= new List<int> {68, 79, 88, 92}},
+                new Student {First="Terry", Last="Adams", ID=120, Scores= new List<int> {99, 82, 81, 79}},
+                new Student {First="Eugene", Last="Zabokritski", ID=121, Scores= new List<int> {96, 85, 91, 60}},
+                new Student {First="Michael", Last="Tucker", ID=122, Scores= new List<int> {94, 92, 91, 91}}
+            };
+
+        static void Main(string[] args)
+        {
+            var myStudents = from s in students where s.Scores[0] > 80 select s;
+            //var myStudents = students.Where(s => s.Scores[0] > 80);
+            foreach (var item in myStudents)
+            {
+                Console.WriteLine(item);
+            }
+        }
+    }
+}

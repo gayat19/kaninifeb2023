@@ -1,0 +1,6 @@
+1) https://leetcode.com/problems/3sum/
+
+2) https://leetcode.com/problems/majority-element/
+
+3) https://leetcode.com/problems/contains-duplicate/
+

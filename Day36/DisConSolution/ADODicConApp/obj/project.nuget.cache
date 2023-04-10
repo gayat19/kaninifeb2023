@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "bUjQJIC+Ehha+Un8x12iab6XBMzTJh/P5hAmDzQdCdaNfmnWaw962HlVHPYNHLzj/AjZrwjDK+1iQvk9xhavOg==",
+  "success": true,
+  "projectFilePath": "D:\\Data\\d drive\\Corp\\Kanini\\Feb2023\\Participants\\Day36\\DisConSolution\\ADODicConApp\\ADODicConApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gayat\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\system.data.sqlclient\\4.8.5\\system.data.sqlclient.4.8.5.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

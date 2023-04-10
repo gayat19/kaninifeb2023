@@ -1,0 +1,15 @@
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day35\DelegatesSolution\InBuiltDelegatesApp\bin\Debug\net6.0\InBuiltDelegatesApp.exe
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day35\DelegatesSolution\InBuiltDelegatesApp\bin\Debug\net6.0\InBuiltDelegatesApp.deps.json
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day35\DelegatesSolution\InBuiltDelegatesApp\bin\Debug\net6.0\InBuiltDelegatesApp.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day35\DelegatesSolution\InBuiltDelegatesApp\bin\Debug\net6.0\InBuiltDelegatesApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day35\DelegatesSolution\InBuiltDelegatesApp\bin\Debug\net6.0\InBuiltDelegatesApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day35\DelegatesSolution\InBuiltDelegatesApp\obj\Debug\net6.0\InBuiltDelegatesApp.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day35\DelegatesSolution\InBuiltDelegatesApp\obj\Debug\net6.0\InBuiltDelegatesApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day35\DelegatesSolution\InBuiltDelegatesApp\obj\Debug\net6.0\InBuiltDelegatesApp.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day35\DelegatesSolution\InBuiltDelegatesApp\obj\Debug\net6.0\InBuiltDelegatesApp.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day35\DelegatesSolution\InBuiltDelegatesApp\obj\Debug\net6.0\InBuiltDelegatesApp.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day35\DelegatesSolution\InBuiltDelegatesApp\obj\Debug\net6.0\InBuiltDelegatesApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day35\DelegatesSolution\InBuiltDelegatesApp\obj\Debug\net6.0\refint\InBuiltDelegatesApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day35\DelegatesSolution\InBuiltDelegatesApp\obj\Debug\net6.0\InBuiltDelegatesApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day35\DelegatesSolution\InBuiltDelegatesApp\obj\Debug\net6.0\InBuiltDelegatesApp.genruntimeconfig.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day35\DelegatesSolution\InBuiltDelegatesApp\obj\Debug\net6.0\ref\InBuiltDelegatesApp.dll

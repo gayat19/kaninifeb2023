@@ -1,0 +1,5 @@
+1) Create a method that will update the role for the user in the databse
+
+2) Create a method that will delete a user form the databse
+
+3) Create a method that will print the profiles that are available in teh database
