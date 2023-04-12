@@ -1,0 +1,114 @@
+1) Download git
+https://git-scm.com/downloads
+
+2) Sign UP in GitHub with LTI mail
+https://github.com/
+
+and activate your accout
+
+3) Check git in local system
+In cmd prompt
+git --version
+
+
+
+cd <dirname/path> - change dir
+dir - lists the dir
+
+cd .. - goes to the parent dir
+
+mkdir <dirname> - creates a new dir
+
+Step 1: Using User1 create files and push it to the local and then remote repo
+IN the cmd prompt navigate to the proper folder then 
+>git init
+
+To see the files that are not commited or even added
+>git status
+Untracked - not being considered for the repo yet
+Staged - you add the file for tracking(Preparation)
+
+For staging
+git add <filename>
+>git add -A - to stage all the files
+
+
+To view the files that are staged and files that are commited 
+>git ls-files
+
+
+to link the remote repo with the local repo
+git remote add origin <repo path>
+
+to check the liked remote repo use
+>git remote -v
+
+to push the files to the remote repo
+>git push origin master
+
+
+user name config cmd
+git config --global user.email "<email>"
+
+to delete a file in cmd prompt
+del <filename>
+
+
+cd ..
+cd User2
+
+
+Step 2: User 2 is joined new in to the project. Now needs all the previous work
+
+git init
+to initialize the folder as a local repo
+
+git remote add origin <repo path>
+to attach the repo with the remote repo
+
+to get all the lastest files
+git pull origin master
+
+Step 3: Creating a working copy of the remote repo
+git clone "https://github.com/gayat19/firstsamplegit.git"
+
+
+Step 4: when you change a file that is already tracked you can directly commit it
+
+Git GUI Download
+https://git-scm.com/download/gui/windows
+
+
+Create branch
+git branch <branchname>
+
+change branch localy
+git checkout <branchname>
+
+view all teh local branches
+git branch
+
+
+push to a particualr branch
+git push origin <branchname> 
+note teh branch should be present in the remote repo
+
+to pull files from a particular branch 
+git pull origin <branchname>
+
+
+Set the user mail
+git config --global user.email "<mailid>"
+
+
+
+
+
+
+
+
+
+
+
+
+
