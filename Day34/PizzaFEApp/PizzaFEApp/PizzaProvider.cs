@@ -15,12 +15,13 @@ namespace PizzaFEApp
         IRepo<Pizza, int> pizzaRepo;
         public PizzaProvider()
         {
-            pizzaRepo = new PIzzaDAL();
+            //pizzaRepo = new PIzzaDAL();
+            pizzaRepo = new PizzaADORepo();
             manage = new PizzaManage(pizzaRepo);
         }
         public void AddPizza()
         {
-            Pizza pizza = new Pizza() { Id = 101, Name = "ABC", Price = 3243 };
+            Pizza pizza = new Pizza() { Id = 101, Name = "OPP", Price = 111 };
             try
             {
                 manage.Add(pizza);

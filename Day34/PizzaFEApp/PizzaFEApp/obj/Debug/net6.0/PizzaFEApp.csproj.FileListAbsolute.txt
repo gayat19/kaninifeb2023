@@ -20,3 +20,9 @@ D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaFEApp\obj
 D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaFEApp\obj\Debug\net6.0\PizzaFEApp.pdb
 D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaFEApp\obj\Debug\net6.0\PizzaFEApp.genruntimeconfig.cache
 D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaFEApp\obj\Debug\net6.0\ref\PizzaFEApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day34\PizzaFEApp\PizzaFEApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
