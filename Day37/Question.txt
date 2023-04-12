@@ -1,0 +1,19 @@
+1) Create the DAL for the Doctor that connects to Database through ADO(Stored  procedure)
+
+2) Create and expose the Patient(id,name,phone,age) functionality in the application
+Add patient
+View all patient
+View single patient detail
+Book appointmnet
+Add doctor
+View all doctors
+View Single doctor
+Delete doctor details
+Delete Appointment details
+Delete Patient details
+
+Note -: 
+Use ADO.NET. 
+Crete table to capture the details and store in database. 
+Use exception and error handling to ensure the application nevr breaks
+
