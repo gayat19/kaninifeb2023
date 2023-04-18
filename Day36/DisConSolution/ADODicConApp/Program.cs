@@ -19,7 +19,7 @@ namespace ADODicConApp
         {
             SqlDataAdapter adapter = new SqlDataAdapter("Select * from tblUsers", conn);
             DataSet ds = new DataSet();
-            adapter.Fill(ds);
+            adapter.Fill(ds);//connect->fetch data to dataset->disconnect
             foreach (DataRow dataRow in ds.Tables[0].Rows)
             {
                 Console.WriteLine("Username : " + dataRow[0]);

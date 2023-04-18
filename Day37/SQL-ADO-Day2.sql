@@ -30,3 +30,9 @@ exec proc_InsertPIzza 'AAA',321.7
 exec proc_InsertPIzza 'KLO',123.9
 
 exec proc_GetAllPizzas
+
+create proc proc_GetLatestId
+as
+   select max(id) from Pizzas
+
+exec proc_GetLatestId
