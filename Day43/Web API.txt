@@ -1,0 +1,10 @@
+Web API 
+http - Web
+API - Predefined Methods to Interact withe the application
+
+C -> Create - POST
+R -> Read - GET
+U -> Update - PUT
+D -> Delete - DETELE
+
+

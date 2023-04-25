@@ -1,0 +1,23 @@
+<BOOKS>
+    <BOOK ID="B001">
+      <AUTHOR>Santosh Bihari</AUTHOR>
+      <TITLE>PHP Core</TITLE>
+      <GENER>programming</GENER>
+      <PRICE>44.95</PRICE>
+      <DATE>2000-10-01</DATE>
+   </BOOK>
+   <BOOK ID="B002">
+      <AUTHOR>Karthiban</AUTHOR>
+      <TITLE>.NET Begin</TITLE>
+      <GENER>Computer</GENER>
+      <PRICE>250</PRICE>
+      <DATE>2002-17-05</DATE>
+   </BOOK>
+   <BOOK ID="B003">
+      <AUTHOR>Anci C</AUTHOR>
+      <TITLE>Dr. Ruby</TITLE>
+      <GENER>Computer</GENER>
+      <PRICE>350</PRICE>
+      <DATE>2001-04-11</DATE>
+   </BOOK>
+</BOOKS>

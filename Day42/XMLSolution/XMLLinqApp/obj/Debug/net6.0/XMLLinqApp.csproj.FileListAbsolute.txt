@@ -1,0 +1,15 @@
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day42\XMLSolution\XMLLinqApp\bin\Debug\net6.0\XMLLinqApp.exe
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day42\XMLSolution\XMLLinqApp\bin\Debug\net6.0\XMLLinqApp.deps.json
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day42\XMLSolution\XMLLinqApp\bin\Debug\net6.0\XMLLinqApp.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day42\XMLSolution\XMLLinqApp\bin\Debug\net6.0\XMLLinqApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day42\XMLSolution\XMLLinqApp\bin\Debug\net6.0\XMLLinqApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day42\XMLSolution\XMLLinqApp\obj\Debug\net6.0\XMLLinqApp.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day42\XMLSolution\XMLLinqApp\obj\Debug\net6.0\XMLLinqApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day42\XMLSolution\XMLLinqApp\obj\Debug\net6.0\XMLLinqApp.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day42\XMLSolution\XMLLinqApp\obj\Debug\net6.0\XMLLinqApp.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day42\XMLSolution\XMLLinqApp\obj\Debug\net6.0\XMLLinqApp.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day42\XMLSolution\XMLLinqApp\obj\Debug\net6.0\XMLLinqApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day42\XMLSolution\XMLLinqApp\obj\Debug\net6.0\refint\XMLLinqApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day42\XMLSolution\XMLLinqApp\obj\Debug\net6.0\XMLLinqApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day42\XMLSolution\XMLLinqApp\obj\Debug\net6.0\XMLLinqApp.genruntimeconfig.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day42\XMLSolution\XMLLinqApp\obj\Debug\net6.0\ref\XMLLinqApp.dll

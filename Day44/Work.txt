@@ -1,0 +1,24 @@
+Stateless
+
+RESTful Service
+Employee - CRUD -> POST,GET,PUT,DELETE - Employee
+
+POST request -> http://localhost:1234/Employee - Pass the object in the body of teh request -> CReate a new employee object
+
+GET request -> http://localhost:1234/Employee -  Gets all employee object
+GET request -> http://localhost:1234/Employee/{parameter} -  Gets the employee object using the parameter
+
+PUT request -> http://localhost:1234/Employee - Pass the object in the body of the request -> Updates the employee object
+
+DELETE request -> http://localhost:1234/Employee/{parameter} - id for delete in parameter ->Deletes the employee object
+
+---------------------------------
+1XX - Information
+2XX - Success
+3XX - Redirection
+4XX - Client Side Error
+5XX - Server Side Error
+
+
+
+

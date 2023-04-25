@@ -1,5 +1,6 @@
 ﻿using EFDatabaseFirstApp.Models;
 using Microsoft.EntityFrameworkCore;
+using System.Diagnostics.SymbolStore;
 using System.Security.Cryptography.X509Certificates;
 
 namespace EFDatabaseFirstApp
@@ -10,10 +11,19 @@ namespace EFDatabaseFirstApp
         void GetPublishers()
         {
             //var publishers = context.Publishers.Where(p => p.Country == "USA");
-            var publishers = (from p in context.Publishers where p.Country=="USA" select p).ToList();
-            foreach (var publisher in publishers)
+            //var publishers = (from p in context.Publishers where p.Country=="USA" select p).ToList();
+            //foreach (var publisher in publishers)
+            //{
+            //    Console.WriteLine(publisher.PubName);
+            //}
+            var authors = context.Authors.Include(a=>a.Titleauthors).ThenInclude(ta=>ta.Title);
+            foreach (var auth in authors)
             {
-                Console.WriteLine(publisher.PubName);
+                Console.WriteLine(auth.AuLname+" "+auth.AuFname);
+                foreach (var author in auth.Titleauthors)
+                {
+                    Console.WriteLine("\t"+author.Title.Title1);
+                }
             }
         }
         void CountLINQ()
@@ -77,7 +87,7 @@ namespace EFDatabaseFirstApp
         }
         void UnderstandingInclude()
         {
-            var publishers = context.Publishers.Include(p=>p.Titles);
+            var publishers = context.Publishers.Include(p => p.Titles);
             foreach (var publisher in publishers)
             {
                 Console.WriteLine(publisher.PubName);
@@ -87,11 +97,23 @@ namespace EFDatabaseFirstApp
                 }
             }
         }
+        void CheckAuthor()
+        {
+            Console.WriteLine("Please enter author first name");
+            string fname = Console.ReadLine();
+           Console.WriteLine("Please enter author last name");
+            string lname = Console.ReadLine();
+            Author author = context.Authors.SingleOrDefault(a => a.AuFname == fname && a.AuLname == lname);
+            if(author == null)
+                Console.WriteLine("Invalid username or password");
+            else
+                Console.WriteLine("Welcome "+author.AuFname+" "+author.AuLname);
+        }
         static void Main(string[] args)
         {
             Program program = new Program();
-            program.UnderstandingInclude();
-            Console.WriteLine("Hello, World!");
+           program.CheckAuthor();
+           
         }
     }
    
