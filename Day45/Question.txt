@@ -1,0 +1,7 @@
+Create a WebAPI that will perform calculator operations(Add,Subtract, Multiply and Delete) in one single controller
+
+The operations are performed by the service
+
+Test the service so that the methods functionality are tested
+
+Note: Add methods for Exception testing.(Research)
