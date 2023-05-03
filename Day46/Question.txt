@@ -1,0 +1,4 @@
+Create the product controller, service, repo..
+Ensure the add product is done only if the user is logged in or registered.
+Anyone can view all the products.
+Create an action method that will allow to search within a price range(anyone can access)

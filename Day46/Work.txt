@@ -1,0 +1,74 @@
+
+
+{
+  "propertyname":"value",
+  "numericPropertyname":23,
+  "object":{
+		"pn":"value",
+ 		"pn2":"val2"
+		}
+}
+
+
+Media Types
+text
+html
+xml
+customtype
+JSON
+
+
+JWT - JSON Web Token
+
+DTO -> Data Tranfer Object
+Validation -> DataAnootation based validation
+
+
+
+User
+  username
+  name
+  phone
+  age
+  password
+  role
+
+userDTO
+  username
+  password
+  token
+  role
+
+Product
+  id
+  name
+  price
+  quantity
+
+
+
+
+
+
+IRepo -
+
+Login & Registration
+UserRepo
+USerService
+UserController
+
+
+Products- Authorized
+Repo
+Service
+Controller
+
+
+{
+  "username": "somu",
+  "phoneNumber": "1234567890",
+  "name": "Somu S",
+  "age": 23,
+  "role": "user",
+  "passwordClear": "somu123"
+}
