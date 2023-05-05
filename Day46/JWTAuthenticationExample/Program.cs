@@ -26,6 +26,8 @@ namespace JWTAuthenticationExample
                 opts.UseSqlServer(builder.Configuration.GetConnectionString("conn"));
             });
             builder.Services.AddScoped<IBaseRepo<string,User>,UserRepo>();
+            builder.Services.AddScoped<IRepo<int,Product>,ProductRepo>();
+            builder.Services.AddScoped<ProductService>();
             builder.Services.AddScoped<UserService>();
             builder.Services.AddScoped<ITokenGenerate,TokenService>();
             builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
