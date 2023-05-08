@@ -1,8 +1,11 @@
 using FirstAPI.Interfaces;
 using FirstAPI.Models;
 using FirstAPI.Services;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 using System.Diagnostics.CodeAnalysis;
+using System.Text;
 
 namespace FirstAPI
 {
@@ -23,7 +26,17 @@ namespace FirstAPI
             builder.Services.AddDbContext<ShopContext>
                 (options => options.UseSqlServer(builder.Configuration.GetConnectionString("myConn")));
             builder.Services.AddScoped<IRepo<int, Product>, ProductRepoEF>();
-
+            builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+               .AddJwtBearer(options =>
+               {
+                   options.TokenValidationParameters = new TokenValidationParameters
+                   {
+                       ValidateIssuerSigningKey = true,
+                       IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["TokenKey"])),
+                       ValidateIssuer = false,
+                       ValidateAudience = false
+                   };
+               });
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -33,6 +46,7 @@ namespace FirstAPI
                 app.UseSwaggerUI();
             }
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
 

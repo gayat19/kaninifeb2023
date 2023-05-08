@@ -1,0 +1,16 @@
+Create a new API
+   Create a controller that will do crud for Eemployee collection
+
+Micro Service Arch
+
+
+Epic
+  User stories
+    Sprints
+
+Project
+   Smaller Problems
+ 	Modules
+
+
+http://localhost:5087/api/User/Login
