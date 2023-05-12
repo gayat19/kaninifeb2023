@@ -1,0 +1,18 @@
+1) Create an angular aplication that wil have 3 menu items
+    Customer
+	Show points
+    Shop
+
+  Display a list of products when the "Shop" menu is clicked
+  In that component also allow the user to buy the product
+  Buying product should accumulate points for the customer also should place the products in the cart
+   Display the cart using any option(menu also acceptable)
+	Cart should have a checkout button
+   The points shold get added only the customer checks out
+   Points should be displayed when the "Show Points" menu is clicked
+	The point for the item in teh cart should be shown as shadow points
+	Customer menu will just show the current customer details
+
+Please create appropriate models and services
+
+  

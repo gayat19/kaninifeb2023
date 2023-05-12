@@ -1,0 +1,49 @@
+Recap
+Project   
+Component
+Binding
+   Property
+   Event
+   2-Way
+InterComponent Communication
+   Input - Parent to child - Property
+	Output - Child to parent - Event
+    Service - For communicaton between components that are not related
+Directives
+   Structural
+		ng-if
+ 		ng-for
+		ng-switch
+   Non-Structural
+       class
+	    disabled
+		hidden
+Service
+   Dependency Injection
+--------------------------------------------
+create a model
+pizza
+  id,name,price,quantity,pic,likes,favStatus
+create a component
+   pizza - display
+------------------------------------------
+export class PizzaModel{
+    id:number;
+    name:string;
+    price:number;
+    quantity:number;
+    constructor( id:number,
+        name:string,
+        price:number,
+        quantity:number){
+            this.id = id;
+            this.name=name;
+            this.price=price;
+            this.quantity = quantity;
+        }
+}
+
+   
+   
+
+   

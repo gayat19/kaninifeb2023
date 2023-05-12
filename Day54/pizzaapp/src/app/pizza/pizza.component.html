@@ -1,0 +1,16 @@
+
+<div class="card" style="width: 18rem;">
+    <img class="card-img-top" [src]="pizza.pic" alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title">{{pizza.name}}</h5>
+      <p class="card-text">
+        {{pizza.name}} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <i class="bi bi-hand-thumbs-up" (click)="incrementLikes()"></i>{{pizza.likes}}
+        <br>
+        Available quantity - {{pizza.quantity}}
+      </p>
+      <i [class]="favClass" (click)="favToggle()"></i>
+      <br>
+      <button [disabled]="pizza.quantity==0"  class="btn btn-primary" (click)="buy()">Buy @  {{pizza.price | currency:'INR'}}</button>
+    </div>
+  </div>

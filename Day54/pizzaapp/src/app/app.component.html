@@ -1,0 +1,12 @@
+<h1 class="alert alert-success">
+    Welcome to the Pizza store
+</h1>
+<div id="cartDiv">
+    <i (click)="toggleCart()" class="bi bi-cart"></i>
+</div>
+<hr>
+<app-pizzas></app-pizzas>
+<!-- <app-cart *ngIf="showCart"></app-cart> -->
+<div [hidden]="!showCart">
+    <app-cart ></app-cart>
+</div>

@@ -1,0 +1,11 @@
+MEAN 
+MERN
+Mongo Express Angular/React Node
+
+SPA - Single Page Application
+
+component
+  ts - Typescript
+  spec - testing 
+  css - styling
+  html - view

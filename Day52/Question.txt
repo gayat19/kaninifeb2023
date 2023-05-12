@@ -1,0 +1,6 @@
+Create a new angular project
+  Create a Movie object which has properties
+ 	Id, Name, Duration, Likes
+
+When the use clicks the like button the likes should increase every time
+Display the movie details

@@ -1,0 +1,9 @@
+#cartDiv{
+    position: relative;
+    float: right;
+    font-size: 3em;
+}
+app-cart{
+    position: relative;
+    float: right;
+}

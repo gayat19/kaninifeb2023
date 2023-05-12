@@ -1,0 +1,17 @@
+<div *ngIf="cart.length>0 else cartEmpty">
+    <table border="1">
+        <tr>
+            <td>Pizza Name</td>
+            <td>Pizza Price</td>
+            <td>Quantity</td>
+        </tr>
+        <tr *ngFor="let pizza of cart">
+            <td>{{pizza.name}}</td>
+            <td>{{pizza.price}}</td>
+            <td>{{pizza.quantity}}</td>
+        </tr>
+    </table>
+</div>
+<ng-template #cartEmpty>
+    Your cart is yet to have items
+</ng-template>
