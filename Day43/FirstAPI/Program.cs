@@ -37,6 +37,15 @@ namespace FirstAPI
                        ValidateAudience = false
                    };
                });
+            builder.Services.AddCors(opts =>
+            {
+                opts.AddPolicy("MyCors", policy =>
+                {
+                    policy.AllowAnyHeader()
+                    .AllowAnyMethod()
+                    .AllowAnyOrigin();
+                });
+            });
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -47,6 +56,7 @@ namespace FirstAPI
             }
 
             app.UseAuthentication();
+            app.UseCors("MyCors");
             app.UseAuthorization();
 
 

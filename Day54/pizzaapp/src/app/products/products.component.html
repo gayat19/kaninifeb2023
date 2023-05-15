@@ -1,0 +1,11 @@
+<button (click)="getProducts()">
+    Get Products
+</button>
+<div *ngIf="products else other">
+    <div *ngFor="let product of products">
+        {{product.name}}
+    </div>
+</div>
+<ng-template #other>
+    Loading......
+</ng-template>

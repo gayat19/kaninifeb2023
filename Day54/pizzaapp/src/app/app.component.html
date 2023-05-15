@@ -1,6 +1,7 @@
 <h1 class="alert alert-success">
     Welcome to the Pizza store
 </h1>
+<app-login></app-login>
 <div id="cartDiv">
     <i (click)="toggleCart()" class="bi bi-cart"></i>
 </div>
@@ -10,3 +11,5 @@
 <div [hidden]="!showCart">
     <app-cart ></app-cart>
 </div>
+<hr>
+<app-products></app-products>

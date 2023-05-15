@@ -7,8 +7,8 @@ Binding
    2-Way
 InterComponent Communication
    Input - Parent to child - Property
-	Output - Child to parent - Event
-    Service - For communicaton between components that are not related
+   Output - Child to parent - Event
+   Service - For communicaton between components that are not related
 Directives
    Structural
 		ng-if
@@ -16,8 +16,8 @@ Directives
 		ng-switch
    Non-Structural
        class
-	    disabled
-		hidden
+	 disabled
+	 hidden
 Service
    Dependency Injection
 --------------------------------------------

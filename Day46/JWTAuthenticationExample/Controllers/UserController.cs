@@ -1,5 +1,6 @@
 ﻿using JWTAuthenticationExample.Models.DTO;
 using JWTAuthenticationExample.Services;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -7,6 +8,7 @@ namespace JWTAuthenticationExample.Controllers
 {
     [Route("api/[controller]/[action]")]
     [ApiController]
+    [EnableCors("MyCors")]
     public class UserController : ControllerBase
     {
         private readonly UserService _service;

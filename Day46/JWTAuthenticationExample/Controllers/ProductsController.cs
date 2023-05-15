@@ -2,6 +2,7 @@
 using JWTAuthenticationExample.Models;
 using JWTAuthenticationExample.Services;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -9,7 +10,7 @@ namespace JWTAuthenticationExample.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-   
+    [EnableCors("MyCors")]
     public class ProductsController : ControllerBase
     {
         private readonly IRepo<int, Product> _repo;

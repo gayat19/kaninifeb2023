@@ -41,6 +41,15 @@ namespace JWTAuthenticationExample
                         ValidateAudience = false
                 };
                 });
+            builder.Services.AddCors(opts =>
+            {
+                opts.AddPolicy("MyCors", policy =>
+                {
+                    policy.AllowAnyHeader()
+                    .AllowAnyMethod()
+                    .AllowAnyOrigin();
+                });
+            });
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -49,8 +58,11 @@ namespace JWTAuthenticationExample
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
+    
             app.UseAuthentication();
+            app.UseCors("MyCors");
             app.UseAuthorization();
+            
 
 
             app.MapControllers();
