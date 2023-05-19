@@ -1,6 +1,6 @@
 
 <div class="card" style="width: 18rem;">
-    <img class="card-img-top" [src]="pizza.pic" alt="Card image cap">
+    <img class="card-img-top" (click)="clickPic()" [src]="pizza.pic" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">{{pizza.name}}</h5>
       <p class="card-text">

@@ -10,6 +10,7 @@ import { PizzaService } from '../services/pizza.service';
 export class PizzaComponent {
   @Input() pizza:PizzaModel;//Parent to child communication
   @Output() likeChange:EventEmitter<number>;//child to parent communication
+  @Output() selectPizza:EventEmitter<number>;
   favClass:string;
 
   constructor(private pizzaService:PizzaService) {
@@ -17,9 +18,12 @@ export class PizzaComponent {
     this.pizza = new PizzaModel();
     this.favClass=this.pizza.favStatus?"bi bi-heart-fill":"bi bi-heart";
     this.likeChange = new EventEmitter<number>();
+    this.selectPizza = new EventEmitter<number>();
 }
 
-
+clickPic(){
+  this.selectPizza.emit(this.pizza.id);
+}
   favToggle(){
 
     this.pizza.favStatus = !this.pizza.favStatus;

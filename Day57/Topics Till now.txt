@@ -1,0 +1,63 @@
+HTML
+HTML5
+   Elements
+   Frame
+   Input Elements
+CSS
+CSS3
+   Specific Styling
+   Responsive Pages
+   Grouping
+   Element Navigation
+   Animation
+   Box Layout
+JavaScript
+jQuery
+   DOM Navigation
+   DOM editing
+   Elemnet Access
+BootStrap
+   Layouts
+   Tables	
+SQL
+  DML
+  DDL
+  Select
+    Where
+    Group By
+    Order By
+    Having
+    Aggregation
+  Stored Procedure-> In,  out, Exception Handling
+  Function -> Scaler, Table Value
+  Triggers 
+  Transactions
+  Cursors
+C#
+  OOPS
+    Class
+    Object
+    Encapsulation -> Class Types, Access Specifiers
+    Abstaraction
+       Interface
+       abstract Class
+    Polymorphism
+    Static Classes
+    Partial Classes
+    Delegates
+       Uni cast , Multi cast, Generic, Pre defined
+    Collection, Generics
+    ADO.NET
+      Connected, Disconnected
+    LINQ
+    EF Core
+ Web API
+    Action
+    EF 
+    Authentication
+    Authorization
+    End Points
+    Open API
+    Status Codes
+    Async
+ 

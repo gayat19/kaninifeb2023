@@ -1,15 +1,38 @@
 <h1 class="alert alert-success">
     Welcome to the Pizza store
 </h1>
-<app-login></app-login>
+<!-- <app-login></app-login>
 <div id="cartDiv">
     <i (click)="toggleCart()" class="bi bi-cart"></i>
 </div>
 <hr>
 <app-pizzas></app-pizzas>
-<!-- <app-cart *ngIf="showCart"></app-cart> -->
+<app-cart *ngIf="showCart"></app-cart> 
 <div [hidden]="!showCart">
     <app-cart ></app-cart>
 </div>
 <hr>
-<app-products></app-products>
+<app-products></app-products> -->
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">Navbar</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item active" >
+          <a routerLink="pizzas" class="nav-link">Pizzas</a>
+        </li>
+        <li class="nav-item" >
+          <a routerLink="cart" class="nav-link">Cart</a>
+        </li>
+        <li class="nav-item">
+          <a routerLink="prod" class="nav-link">Products</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <div>
+    <router-outlet></router-outlet>
+  </div>

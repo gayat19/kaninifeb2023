@@ -1,5 +1,9 @@
 <h1>Select the pizza you like</h1>
 <h2>Liked pizza count {{likeCount}}</h2>
 <div *ngFor="let p of pizzas">
-    <app-pizza [pizza]="p" (likeChange)="changeCount($event)"></app-pizza>
+    <app-pizza (selectPizza)="selectPic($event)" [pizza]="p" (likeChange)="changeCount($event)"></app-pizza>
 </div>
+<div id="cartDiv">
+    <i (click)="showCart()" class="bi bi-cart"></i>
+</div>
+<router-outlet></router-outlet>

@@ -12,6 +12,9 @@ import { LoginComponent } from './login/login.component';
 import { UserService } from './services/user.service';
 import { ProductService } from './services/product.service';
 import { ProductsComponent } from './products/products.component';
+import { ShowPIcComponent } from './show-pic/show-pic.component';
+import { AuthenticateService } from './services/authenticate.service';
+import { AuthGuard } from './services/authGuard';
 
 @NgModule({
   declarations: [
@@ -20,14 +23,15 @@ import { ProductsComponent } from './products/products.component';
     PizzasComponent,
     CartComponent,
     LoginComponent,
-    ProductsComponent
+    ProductsComponent,
+    ShowPIcComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     HttpClientModule
   ],
-  providers: [PizzaService,UserService,ProductService],
+  providers: [PizzaService,UserService,ProductService,AuthenticateService,AuthGuard],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

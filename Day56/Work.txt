@@ -1,0 +1,4 @@
+Routing
+   Change the url - word
+   Mapping component with word
+   Place holder - <router-outlet>

@@ -18,6 +18,9 @@ user:User
       this.userService.login(this.user).subscribe((data)=> {
          this.user = data as User;
          localStorage.setItem("token",this.user.token);
+        },(err)=>{
+          // console.log(err["error"])
+          alert(err["error"])
         })
   }
 
