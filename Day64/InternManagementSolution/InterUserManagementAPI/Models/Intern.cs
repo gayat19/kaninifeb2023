@@ -16,7 +16,7 @@ namespace InterUserManagementAPI.Models
         [ForeignKey("Id")]
         public User? User { get; set; }
         [Required(ErrorMessage = "Name cannot be empty")]
-        [MinLength(3,ErrorMessage ="Name cannot be less than 3 char")]
+        [MinLength(5,ErrorMessage ="Name cannot be less than 3 char")]
         public string Name { get; set; }
         public DateTime DateOfBirth { get; set; }
         public int Age { get; set; }
