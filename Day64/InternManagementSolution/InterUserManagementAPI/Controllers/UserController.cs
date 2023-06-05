@@ -1,5 +1,6 @@
 ﻿using InterUserManagementAPI.Interfaces;
 using InterUserManagementAPI.Models.DTOs;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -7,6 +8,7 @@ namespace InterUserManagementAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [EnableCors("AngularCORS")]
     public class UserController : ControllerBase
     {
         private readonly IManageUser _manageUser;

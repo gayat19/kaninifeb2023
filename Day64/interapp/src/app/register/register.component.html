@@ -1,0 +1,48 @@
+<div>
+    <table>
+        <tr>
+            <td><label class="form-control">Full Name</label></td>
+            <td><input class="form-control" 
+                required minlength="5" 
+                type="text" 
+                [(ngModel)]="intern.name" 
+                #iname="ngModel"></td>
+            <span *ngIf="iname.touched && iname.invalid" class="alert alert-danger">
+               <span *ngIf="iname.errors['required']"> Name cannot be empty</span>
+               <span  *ngIf="iname.errors['minlength']">Name should be min 5 chars long</span> 
+            </span>
+        </tr>
+        <tr>
+            <td><label class="form-control">Phone</label></td>
+            <td><input class="form-control" type="text" [(ngModel)]="intern.phone"></td>
+        </tr>
+        <tr>
+            <td><label class="form-control">Email</label></td>
+            <td><input class="form-control" type="text" [(ngModel)]="intern.email"></td>
+        </tr>
+        <tr>
+            <td><label class="form-control">Gender</label></td>
+            <td>
+                <select class="form-control" (change)="addGender(gender.value)" #gender>
+                    <option value="female">Female</option>
+                    <option value="male">Male</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td><label class="form-control">Date Of Birth</label></td>
+            <td><input class="form-control" type="date" [(ngModel)]="intern.dateOfBirth"></td>
+        </tr>
+        <tr>
+            <td><label class="form-control">Age</label></td>
+            <td><input class="form-control" type="number" [(ngModel)]="intern.age"></td>
+        </tr>
+        <tr>
+            <td><button class="btn btn-success" (click)="addIntern()">Register</button></td>
+            <td><button class="btn btn-danger">Cancel</button></td>
+        </tr>
+    </table>
+</div>
+<div>
+    {{intern| json}}
+</div>
