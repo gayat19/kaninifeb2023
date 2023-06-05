@@ -4,6 +4,6 @@ namespace InterUserManagementAPI.Interfaces
 {
     public interface IGenerateToken
     {
-        string GenerateToken(USerDTO user);
+        public string GenerateToken(UserDTO user);
     }
 }

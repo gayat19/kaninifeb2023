@@ -2,7 +2,7 @@
 
 namespace InterUserManagementAPI.Models.DTOs
 {
-    public class USerDTO
+    public class UserDTO
     {
         public int UserId { get; set; }
         public string? Password { get; set; }

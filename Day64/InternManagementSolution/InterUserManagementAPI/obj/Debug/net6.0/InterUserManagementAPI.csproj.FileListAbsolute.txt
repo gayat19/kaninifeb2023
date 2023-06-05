@@ -67,3 +67,4 @@ D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day64\InternManagementSolution\
 D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day64\InternManagementSolution\InterUserManagementAPI\obj\Debug\net6.0\InterUserManagementAPI.pdb
 D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day64\InternManagementSolution\InterUserManagementAPI\obj\Debug\net6.0\InterUserManagementAPI.genruntimeconfig.cache
 D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day64\InternManagementSolution\InterUserManagementAPI\obj\Debug\net6.0\ref\InterUserManagementAPI.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day64\InternManagementSolution\InterUserManagementAPI\bin\Debug\net6.0\log4net.config

@@ -1,4 +1,6 @@
+using InterUserManagementAPI.Interfaces;
 using InterUserManagementAPI.Models;
+using InterUserManagementAPI.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -17,7 +19,11 @@ builder.Services.AddDbContext<UserContext>(opts =>
 {
     opts.UseSqlServer(builder.Configuration.GetConnectionString("UserCon"));
 });
-
+builder.Services.AddScoped<IRepo<int, User>, USerRepo>();
+builder.Services.AddScoped<IRepo<int,Intern>,InternRepo>();
+builder.Services.AddScoped<IGeneratePassword, GeneratePasswordService>();
+builder.Services.AddScoped<IGenerateToken,GenerateTokenService>();
+builder.Services.AddScoped<IManageUser,ManageUserService>();
 
 var app = builder.Build();
 
