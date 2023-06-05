@@ -1,0 +1,72 @@
+FE
+  Login
+     Intern
+     Admin
+  Register
+     Intern - 
+  	Full Name
+	Phone
+	Email
+	Password-AutoGEnerate
+	DateOfBirth
+	Gender
+	Education
+	Age
+  LogTime(I)
+	Login Time
+	Log OUt Time 
+	Date-Non editable
+  Ticket
+	Issue TItle
+	Issue Details
+
+
+
+Database
+	User - Parent 
+   	  Usrid - PK, Identity
+	 Password-AutoGEnerate
+         PAsswordHash
+	PAsswordKey
+	  Role
+	  UserStatus
+	Intern
+ 	 Intern ID -FK, PK
+	 Full Name
+         Phone
+	 Email
+	 DateOfBirth
+	 Gender
+	 Education
+	 Age
+      InternTicket
+        TicketNumber - PK, Identity
+	InternId - FK
+        DateOfTicket
+	IssueTitle
+	IssueDetails
+	SolutionProvided
+	ResolvedDate
+      InterLog
+	LogNumber -PK, Identity
+	InterId
+	Date
+	Login Time
+	LogOut Time
+
+End Points
+     Intern Register - USer DTO- Token
+     Intern Login - UserDTO- Token
+     Admin Login - UserDTO
+     LogTime - Intern -
+     Admin Approve - AproveDTO - InternID, AppoveRemarks
+     Admin Get Interns - 
+     Intern - Raise Ticket
+     Admin - Resolve Ticket - TicketResolveDTO - TickedNumber, Solution
+Business Logis
+	Generate PAssword -
+		Combination of 4charName+dd+mm
+	Check Intern Status
+	Check Ticket Status
+        
+  

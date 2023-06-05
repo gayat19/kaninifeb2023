@@ -67,3 +67,6 @@ D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day43\FirstAPI\bin\Debug\net6.0
 D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day43\FirstAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day43\FirstAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day43\FirstAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day43\FirstAPI\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day43\FirstAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day43\FirstAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
