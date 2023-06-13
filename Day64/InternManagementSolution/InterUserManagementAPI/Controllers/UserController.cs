@@ -18,6 +18,8 @@ namespace InterUserManagementAPI.Controllers
             _manageUser = manageUser;
         }
         [HttpPost]
+        [ProducesResponseType(typeof(UserDTO),StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
         public async Task<ActionResult<UserDTO>> Register(InternDTO intern)
         {
             var result = await _manageUser.Register(intern);

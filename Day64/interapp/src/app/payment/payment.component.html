@@ -1,0 +1,13 @@
+<h1>
+    Welcome to the Payment Gateway
+</h1>
+<input type="text" [appCardDirective]="user.name">
+<div>
+    Name: {{user.name | uppercase}}
+    <br>
+    Salary : {{user.salary | currency:'YEN'}}
+    <br>
+    Date Of Birth : {{user.DOB|date:'dd-MMMM-yyy'}}
+    <br>
+    Description : {{user.about | longtext:10}}
+</div>

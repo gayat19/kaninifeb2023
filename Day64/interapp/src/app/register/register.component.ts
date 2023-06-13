@@ -22,6 +22,7 @@ addIntern(){
   console.log(this.intern)
   this.internRegisterService.createIntern(this.intern).subscribe(data=>{
     this.loggedInUser = data as LoggedInUserModel;
+    localStorage.setItem("token",this.loggedInUser.token);
     console.log(this.loggedInUser);
   },
   err=>{

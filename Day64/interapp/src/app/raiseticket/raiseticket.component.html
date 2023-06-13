@@ -1,0 +1,18 @@
+<form [formGroup]="myForm" (ngSubmit)="raiseTicket()">
+    <label class="form-control">Title</label>
+    <input formControlName="heading" type="text" class="form-control">
+    <span class="alert alert-danger" *ngIf="heading.invalid && heading.touched">
+        Heading cannot be empty
+        <span *ngIf="heading.errors['titleError']">
+                {{heading.errors['titleError']}}
+        </span>
+    </span>
+    <label class="form-control">Description</label>
+    <textarea formControlName="description" class="form-control" rows="3" cols="20"></textarea>
+    <span class="alert alert-danger" *ngIf="description.invalid">
+        description cannot be empty
+    </span>
+    <button class="btn btn-success">Create ticket</button>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <button class="btn btn-danger">Cancel</button>
+</form>
