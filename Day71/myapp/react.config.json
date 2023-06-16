@@ -1,0 +1,84 @@
+{
+	"project": {
+		"path": "./src",
+		"typescript": true,
+		"fileNaming": {
+			"casing": "kebab",
+			"name": "{name}"
+		},
+		"lint": false,
+		"format": false,
+		"verbose": true,
+		"export": {
+			"default": false,
+			"inline": true
+		}
+	},
+	"component": {
+		"default": {
+			"style": true,
+			"story": true,
+			"test": true,
+			"proptypes": true,
+			"index": true,
+			"inFolder": true,
+			"open": true,
+			"fileNaming": {
+				"casing": "kebab",
+				"name": "{name}"
+			},
+			"path": "/components",
+			"class": false,
+			"redux": false,
+			"testId": false
+		}
+	},
+	"style": {
+		"type": "css",
+		"modules": true,
+		"fileNaming": {
+			"name": "{name}"
+		},
+		"path": "{componentPath}",
+		"export": {
+			"default": false,
+			"inline": true
+		}
+	},
+	"storybook": {
+		"path": "{componentPath}",
+		"fileNaming": {
+			"name": "{name}.stories",
+			"casing": "kebab"
+		}
+	},
+	"test": {
+		"path": "{componentPath}",
+		"fileNaming": {
+			"name": "{name}.test",
+			"casing": "kebab"
+		}
+	},
+	"hook": {
+		"path": "/hooks",
+		"fileNaming": {
+			"casing": "camel",
+			"name": "{name}"
+		}
+	},
+	"context": {
+		"path": "/contexts",
+		"export": {
+			"default": false,
+			"destructure": false,
+			"inline": true
+		},
+		"hook": true,
+		"open": true,
+		"customProvider": false,
+		"fileNaming": {
+			"casing": "kebab",
+			"name": "{name}"
+		}
+	}
+}
