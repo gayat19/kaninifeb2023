@@ -1,0 +1,31 @@
+How to share state with a lot of componenents
+
+interns
+   CRUD
+
+Create and read
+
+Create will be in a componenet
+
+List will be another componenet
+
+
+
+Menu to perform actions
+
+App
+  Menu
+  Create/InternList
+	    - Intern
+
+
+store - > Interns
+
+slice -> hold the initial state of teh object,
+	 Actions that could be performed on teh object
+	 Content of teh actions
+
+addIntern - > inters
+
+dispacher -> do the action
+   

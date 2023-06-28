@@ -9,10 +9,10 @@ namespace InterUserManagementAPI.Services
         private readonly UserContext _context;
         private readonly ILogger<USerRepo> _logger;
 
-        public USerRepo(UserContext context, ILogger<USerRepo> logger)
+        public USerRepo(UserContext context)//, ILogger<USerRepo> logger)
         {
             _context = context;
-            _logger = logger;
+            //_logger = logger;
         }
         public async Task<User?> Add(User item)
         {
@@ -24,7 +24,7 @@ namespace InterUserManagementAPI.Services
             }
             catch (Exception ex)
             {
-                _logger.LogError(ex.Message);
+                //_logger.LogError(ex.Message);
             }
             return null;
         }

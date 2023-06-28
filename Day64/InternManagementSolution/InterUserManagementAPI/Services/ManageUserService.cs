@@ -12,16 +12,19 @@ namespace InterUserManagementAPI.Services
         private readonly IRepo<int, Intern> _internRepo;
         private readonly IGeneratePassword _passwordService;
         private readonly IGenerateToken _tokenService;
+        private readonly IInternDTOUserAdapter _userAdapter;
 
         public ManageUserService(IRepo<int,User> userRepo,
             IRepo<int,Intern> internRepo,
             IGeneratePassword passwordService,
-            IGenerateToken tokenService) 
+            IGenerateToken tokenService,
+            IInternDTOUserAdapter userAdapter) 
         { 
             _userRepo = userRepo;
             _internRepo = internRepo;
             _passwordService = passwordService;
             _tokenService = tokenService;
+           _userAdapter = userAdapter;
         }
         public Task<UserDTO> ChangeStatus(UserDTO user)
         {
@@ -53,12 +56,8 @@ namespace InterUserManagementAPI.Services
         {
 
             UserDTO user = null;
-            var hmac = new HMACSHA512();
-            string? generatedPassword = await _passwordService.GeneratePassword(intern);
-            intern.User.PasswordHash = hmac.ComputeHash(Encoding.UTF8.GetBytes(generatedPassword??"1234"));
-            intern.User.PasswordKey = hmac.Key;
-            intern.User.Role = "Intern";
-            var userResult = await _userRepo.Add(intern.User); 
+            var userNew = await _userAdapter.GetUserFromInternDTOAsync(intern);
+            var userResult = await _userRepo.Add(userNew); 
             var internResult = await _internRepo.Add(intern);
             if ( userResult != null && internResult != null)
             {
