@@ -1,0 +1,15 @@
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day94\UnderstandingGCSolution\UnderstandingGCApp\bin\Debug\net6.0\UnderstandingGCApp.exe
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day94\UnderstandingGCSolution\UnderstandingGCApp\bin\Debug\net6.0\UnderstandingGCApp.deps.json
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day94\UnderstandingGCSolution\UnderstandingGCApp\bin\Debug\net6.0\UnderstandingGCApp.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day94\UnderstandingGCSolution\UnderstandingGCApp\bin\Debug\net6.0\UnderstandingGCApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day94\UnderstandingGCSolution\UnderstandingGCApp\bin\Debug\net6.0\UnderstandingGCApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day94\UnderstandingGCSolution\UnderstandingGCApp\obj\Debug\net6.0\UnderstandingGCApp.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day94\UnderstandingGCSolution\UnderstandingGCApp\obj\Debug\net6.0\UnderstandingGCApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day94\UnderstandingGCSolution\UnderstandingGCApp\obj\Debug\net6.0\UnderstandingGCApp.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day94\UnderstandingGCSolution\UnderstandingGCApp\obj\Debug\net6.0\UnderstandingGCApp.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day94\UnderstandingGCSolution\UnderstandingGCApp\obj\Debug\net6.0\UnderstandingGCApp.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day94\UnderstandingGCSolution\UnderstandingGCApp\obj\Debug\net6.0\UnderstandingGCApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day94\UnderstandingGCSolution\UnderstandingGCApp\obj\Debug\net6.0\refint\UnderstandingGCApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day94\UnderstandingGCSolution\UnderstandingGCApp\obj\Debug\net6.0\UnderstandingGCApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day94\UnderstandingGCSolution\UnderstandingGCApp\obj\Debug\net6.0\UnderstandingGCApp.genruntimeconfig.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day94\UnderstandingGCSolution\UnderstandingGCApp\obj\Debug\net6.0\ref\UnderstandingGCApp.dll

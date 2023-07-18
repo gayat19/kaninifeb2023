@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "difJqF7OpsoRqCAZ4Y9DX/6qW/ZVPeMv7F5zpxzIdpuTOTUvt7ZOjjdIas0ZU23Uninph8vy7OzaxREXASSUnQ==",
+  "success": true,
+  "projectFilePath": "D:\\MOC\\AZ-204\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\Allfiles\\Labs\\01\\Starter\\API\\Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gayat\\.nuget\\packages\\azure.core\\1.0.0\\azure.core.1.0.0.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\azure.storage.blobs\\12.0.0\\azure.storage.blobs.12.0.0.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\azure.storage.common\\12.0.0\\azure.storage.common.12.0.0.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\flurl\\2.8.2\\flurl.2.8.2.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

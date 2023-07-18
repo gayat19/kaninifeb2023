@@ -10,7 +10,7 @@ function App() {
   var addProduct=(event)=>{
    setProducts([...products,event])
   }
-  const people = [
+  const [people,setPeople] = useState([
     {
       name: 'James',
       age: 31,
@@ -31,17 +31,20 @@ function App() {
       name: 'George',
       age: 34,
     }
-  ];
+  ]);
   var [age,setAge] = useState(18);
   var addPerson=()=>{
-    people.push({name:"Paulo",age:39});
+    setPeople([...people,{name:"Paulo",age:39}]);
+   
   }
   return (
     <div className="App">
       <h1>Hello to react!!!</h1>
+      <button className='btn btn-success' onClick={addPerson}>Add Person</button>
       <input type='number' onChange={(event)=>{
           setAge(event.target.value);
       }}/>
+
       {/* <AddProduct insertProduct={addProduct}/>
       <Products products={products} /> */}
       {

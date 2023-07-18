@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "/yyVWrF9h7TxFPtYnCgPag5Xm1oTBX7EiStTdZybjY1T07BmvPzCunFhRphhWLBrxovtpszZyFYiE2LWYUIoEQ==",
+  "success": true,
+  "projectFilePath": "D:\\MOC\\AZ-204\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\Allfiles\\Labs\\01\\Starter\\Web\\Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gayat\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\gayat\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

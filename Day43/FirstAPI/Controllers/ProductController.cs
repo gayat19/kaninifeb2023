@@ -9,7 +9,7 @@ namespace FirstAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+    //[Authorize]
     [EnableCors("MyCors")]
     public class ProductController : ControllerBase
     {

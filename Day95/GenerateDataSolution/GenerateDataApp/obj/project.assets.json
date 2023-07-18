@@ -1,0 +1,115 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Bogus/34.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Bogus.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Bogus.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bogus/34.0.2": {
+      "sha512": "2KQAuMn3fLAQ2r6jeiffZnpv0bi3GCW3iRB2v1KeHIEBu8MNTh9dBlLTZwGvM0pr+9doKkU8L5JgCURmTmT88A==",
+      "type": "package",
+      "path": "bogus/34.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "bogus.34.0.2.nupkg.sha512",
+        "bogus.nuspec",
+        "lib/net40/Bogus.dll",
+        "lib/net40/Bogus.xml",
+        "lib/net6.0/Bogus.dll",
+        "lib/net6.0/Bogus.xml",
+        "lib/netstandard1.3/Bogus.dll",
+        "lib/netstandard1.3/Bogus.xml",
+        "lib/netstandard2.0/Bogus.dll",
+        "lib/netstandard2.0/Bogus.xml"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Bogus >= 34.0.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\gayat\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Data\\d drive\\Corp\\Kanini\\Feb2023\\Participants\\Day95\\GenerateDataSolution\\GenerateDataApp\\GenerateDataApp.csproj",
+      "projectName": "GenerateDataApp",
+      "projectPath": "D:\\Data\\d drive\\Corp\\Kanini\\Feb2023\\Participants\\Day95\\GenerateDataSolution\\GenerateDataApp\\GenerateDataApp.csproj",
+      "packagesPath": "C:\\Users\\gayat\\.nuget\\packages\\",
+      "outputPath": "D:\\Data\\d drive\\Corp\\Kanini\\Feb2023\\Participants\\Day95\\GenerateDataSolution\\GenerateDataApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\gayat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Bogus": {
+            "target": "Package",
+            "version": "[34.0.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

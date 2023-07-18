@@ -1,0 +1,17 @@
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day95\GenerateDataSolution\GenerateDataApp\bin\Debug\net6.0\GenerateDataApp.exe
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day95\GenerateDataSolution\GenerateDataApp\bin\Debug\net6.0\GenerateDataApp.deps.json
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day95\GenerateDataSolution\GenerateDataApp\bin\Debug\net6.0\GenerateDataApp.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day95\GenerateDataSolution\GenerateDataApp\bin\Debug\net6.0\GenerateDataApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day95\GenerateDataSolution\GenerateDataApp\bin\Debug\net6.0\GenerateDataApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day95\GenerateDataSolution\GenerateDataApp\bin\Debug\net6.0\Bogus.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day95\GenerateDataSolution\GenerateDataApp\obj\Debug\net6.0\GenerateDataApp.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day95\GenerateDataSolution\GenerateDataApp\obj\Debug\net6.0\GenerateDataApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day95\GenerateDataSolution\GenerateDataApp\obj\Debug\net6.0\GenerateDataApp.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day95\GenerateDataSolution\GenerateDataApp\obj\Debug\net6.0\GenerateDataApp.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day95\GenerateDataSolution\GenerateDataApp\obj\Debug\net6.0\GenerateDataApp.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day95\GenerateDataSolution\GenerateDataApp\obj\Debug\net6.0\GenerateDataApp.csproj.CopyComplete
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day95\GenerateDataSolution\GenerateDataApp\obj\Debug\net6.0\GenerateDataApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day95\GenerateDataSolution\GenerateDataApp\obj\Debug\net6.0\refint\GenerateDataApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day95\GenerateDataSolution\GenerateDataApp\obj\Debug\net6.0\GenerateDataApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day95\GenerateDataSolution\GenerateDataApp\obj\Debug\net6.0\GenerateDataApp.genruntimeconfig.cache
+D:\Data\d drive\Corp\Kanini\Feb2023\Participants\Day95\GenerateDataSolution\GenerateDataApp\obj\Debug\net6.0\ref\GenerateDataApp.dll

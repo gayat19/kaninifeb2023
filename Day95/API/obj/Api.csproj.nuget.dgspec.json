@@ -1,0 +1,97 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\MOC\\AZ-204\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\Allfiles\\Labs\\01\\Starter\\API\\Api.csproj": {}
+  },
+  "projects": {
+    "D:\\MOC\\AZ-204\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\Allfiles\\Labs\\01\\Starter\\API\\Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MOC\\AZ-204\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\Allfiles\\Labs\\01\\Starter\\API\\Api.csproj",
+        "projectName": "Api",
+        "projectPath": "D:\\MOC\\AZ-204\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\Allfiles\\Labs\\01\\Starter\\API\\Api.csproj",
+        "packagesPath": "C:\\Users\\gayat\\.nuget\\packages\\",
+        "outputPath": "D:\\MOC\\AZ-204\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\Allfiles\\Labs\\01\\Starter\\API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gayat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "targetAlias": "netcoreapp3.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
+          "dependencies": {
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Flurl": {
+              "target": "Package",
+              "version": "[2.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.0.3, 3.0.3]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
